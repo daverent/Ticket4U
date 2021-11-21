@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticket4U | Home Page</title>
+</head>
+
+<body>
+    <section class="main-content">
+        <nav>
+            <h4>Ticket4U</h4>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href='/eventi'>Eventi</a></li>
+                {{#if isBiglietteria}}
+                <li><a href='/sigillo'>Sigilla Biglietti</a></li>
+                {{/if}}
+                {{#if isManager}}
+                <li><a href='/validazione'>Strappa Biglietti</a></li>
+                {{/if}}
+                {{#if logged}}
+                <li><a href="/profilo">Profilo</a></li>
+                <li><a href="/logout" id="LogBtn" class="btn btn-primary">Logout</a></li>
+                {{else}}
+                <li><a href="/login">Accedi</a></li>
+                <li><a href="/register">Registrati</a></li>
+                {{/if}}
+            </ul>
+        </nav>
+        <div style="overflow: auto;">
+            <div style="text-align: center;">
+                <h1>Privacy</h1>
+                <div>
+                    <p style="width: 58%; margin-left:21%">
+                        INFORMATIVA SUL TRATTAMENTO DI DATI PERSONALI ai sensi dell’art. 13 del Regolamento UE 2016/679,
+                        Regolamento Generale sulla Protezione dei Dati (‘RGPD’) e del D.Lgs. n. 196/2003, Codice in
+                        materia di protezione dei dati personali (Codice della Privacy’)
+
+                        Versione – 25 maggio 2018
+
+                        Gentile Signora, Egregio Signore,
+                        la presente informativa è resa per il sito "www.Ticket4U.it" di proprietà e gestito dalla
+                        società Ticket4U S.p.A., con sede in Milano, Via Fabio Filzi n. 29 (nel seguito, "Ticket4U" o
+                        la "Società"), in qualità di Titolare del Trattamento, e non anche per altri siti web terzi
+                        eventualmente consultati dall’utente tramite link. La presente informativa trova altresì
+                        applicazione in relazione al trattamento dei dati personali tramite i seguenti siti web in
+                        titolarità di e/o operativamente gestiti da Ticket4U shop.Ticket4U.it, www.fansale.it,
+                        sport.Ticket4U.it, cinema.Ticket4U.it, www.tosc.it nonché le applicazioni "Ticket4U" della
+                        Società. Eventuali future aggiunte o modifiche a tale lista saranno opportunamente portate a Sua
+                        conoscenza. Il sito www.Ticket4U.it e gli altri siti corrispondenti ai nomi a dominio sopra
+                        indicati, così come successivamente modificati od integrati, nonché le applicazioni mobile
+                        saranno di seguito individualmente indicati come "Sito".
+
+                        L’informativa è destinata a tutti i soggetti che interagiscano con le pagine web del Sito, sia a
+                        coloro che utilizzano il Sito senza effettuare alcuna registrazione, sia a coloro che, al
+                        termine di apposita procedura, si registrino al Sito ed usufruiscano dei servizi on line
+                        prestati tramite lo stesso. La presente informativa è fornita ai sensi dell’art. 13 RGPD e del
+                        Codice della Privacy, limitatamente alle previsioni applicabili compatibilmente con il RGPD,
+                        nonché in conformità alla Raccomandazione n. 2/2001 che le Autorità Europee per la Protezione
+                        dei Dati Personali, riunite nel Gruppo istituito dall’art. 29 della Direttiva n. 95/46/CE, hanno
+                        adottato il 17 maggio 2001 per individuare alcuni requisiti minimi per la raccolta di dati
+                        personali on line, e successive modifiche ed integrazioni.
+
+                        Registrazione
+                        Le informazioni e i dati richiesti in caso di registrazione verranno utilizzati per consentirLe
+                        sia di accedere all’area riservata del Sito, sia di usufruire dei servizi on line offerti da
+                        Ticket4U. I dati personali degli utenti registrati verranno trattati per le finalità e secondo
+                        le modalità di cui alla presente informativa.
+
+                        Ordini
+                        Nel caso in cui venga effettuato un ordine vengono registrati alcuni dati, come ad esempio
+                        l’indirizzo IP da cui è originata la transazione, l’orario della richiesta, il tipo di browser
+                        utilizzato, ecc. Questi dati potrebbero essere utilizzati per l’accertamento di responsabilità
+                        in caso di ipotetici reati informatici ai danni del Sito e/o di terzi, su impulso delle autorità
+                        inquirenti competenti ai sensi di legge.
+
+                        Marketing
+                        Previo Suo consenso, Ticket4U potrà trattare i dati personali da Lei conferiti al fine di
+                        inviarLe materiale pubblicitario relativo a prodotti e/o servizi propri o di terzi.
+
+                        Profilazione
+                        I dati personali da Lei conferiti in occasione di un acquisto sul Sito potranno essere trattati
+                        da Ticket4U, previo Suo consenso, per finalità di profilazione, ossia per l’analisi delle Sue
+                        scelte di consumo attraverso la rilevazione della tipologia e della frequenza degli acquisti da
+                        Lei effettuati, al fine di inviarLe materiale pubblicitario di Ticket4U o di terzi di Suo
+                        specifico interesse.
+
+                        Soft spamming
+                        Ticket4U potrà utilizzare, a fini della vendita diretta dei servizi di ticketing tramite il
+                        Sito, le coordinate di posta elettronica da Lei fornite nel contesto di un acquisto sul Sito,
+                        anche senza il Suo consenso, in base all’art. 130, quarto comma del Codice della Privacy, sempre
+                        che si tratti di un servizio analogo a quelli oggetto della precedente vendita (c.d. soft
+                        spamming). Lei potrà comunque rifiutare questo trattamento in qualsiasi momento comunicando la
+                        Sua opposizione a Ticket4U con le modalità indicate all’art. 10 che segue.
+
+                        Cookie
+                        Vengono utilizzate varie soluzioni software per ottimizzare i servizi online. Queste soluzioni
+                        consentono di analizzare l’utilizzo del sito Web e di raccogliere utili informazioni sulle
+                        esigenze degli utenti, al fine di migliorare continuamente la facilità d’utilizzo e la qualità
+                        dei servizi online. Per eseguire tali analisi, vengono acquisiti dati statistici aggregati e
+                        anonimi. Questi dati sono connessioni anonime e "clickstream data" relativi al browser
+                        utilizzato, al numero di visite/pagine visualizzate e al comportamento di navigazione del
+                        visitatore sul Sito. L’indirizzo IP abbreviato del visitatore potrebbe essere visualizzato nel
+                        corso della raccolta e dell’elaborazione dei dati. I dati vengono analizzati per diverse
+                        finalità, in particolare:
+                        • per conteggiare il numero di visitatori
+                        • tracciare le aree del sito web che sono particolarmente attraenti per i visitatori
+                        • individuare da dove provengono i visitatori, al fine di ottimizzare i servizi forniti
+                        • fornire contenuti e annunci personalizzati
+
+                        Questo processo comporta l’uso di cookie, ovvero piccoli file di testo che un sito web visitato
+                        dall’utente invia al suo terminale dove viene memorizzato per essere poi ritrasmesso a tale sito
+                        in occasione di una visita successiva. Per maggiori informazioni riguardo la definizione,
+                        l’utilizzo e le modalità di disattivazione dei cookie, La invitiamo a visualizzare la nostra
+                        Informativa cookie.
+
+                        A seguire, vengono riepilogati i principali cookie erogati sul Sito (cliccando sul link
+                        riportato accanto a ciascun provider si verrà reindirizzati all’opzione di disattivazione):
+
+                        • Criteo www.criteo.com/it/privacy/
+                        • Google www.google.com/settings/ads
+                        • Facebook www.youronlinechoices.com/it/le-tue-scelte
+                        • Il Sole 24 Ore du.ilsole24ore.com/utenti/privacyfiles/informativa_cookies.html
+                        • CTS EVENTIM AG & Co. KGaA https://isc-tracking.eventim.com/optout
+                        • Google Analytics https://tools.google.com/dlpage/gaoptout?hl=it
+                        • Tag Commander www.commandersact.com/it/
+                        • Twitter https://twitter.com/personalization
+
+                        La informiamo che la disattivazione avviene utilizzando un cookie. Se questo cookie viene
+                        cancellato sarà necessario ripetere la disattivazione in futuro.
+
+                        Per visualizzare ulteriori tipologie di cookie erogati sul Sito, e relative modalità di
+                        disattivazione, La invitiamo ad accedere alla nostra Informativa-cookie.
+
+                        INFORMATIVA PER IL TRATTAMENTO DEI DATI PERSONALI EX ART. 13 REGOLAMENTO GENERALE SULLA
+                        PROTEZIONE DEI DATI ED AI SENSI DEL CODICE DELLA PRIVACY
+
+                        L’iscrizione al Sito di proprietà e gestito da Ticket4U e l’eventuale successivo utilizzo dei
+                        servizi resi da Ticket4U attraverso il Sito, ivi inclusi il servizio di prenotazione, acquisto,
+                        emissione e spedizione di biglietti (c.d. "servizio di ticketing") e il servizio informativo
+                        relativo agli eventi in vendita, alle date di apertura delle vendite e alle altre informazioni
+                        connesse a tali eventi comporterà il trattamento di dati personali che La riguardano. Pertanto,
+                        in ottemperanza alle prescrizioni del Regolamento UE 2016/679, Regolamento Generale sulla
+                        Protezione dei Dati (c.d. "RGPD") e del Codice della Privacy, se e nella misura in cui sia
+                        applicabile, con la presente intendiamo informarLa che la Società, in quanto proprietaria del
+                        Sito ed in qualità di Titolare del Trattamento, sottoporrà a trattamento i dati personali che La
+                        riguardano alle seguenti condizioni.
+
+                        Art. 1. Tipologia di dati personali
+                        In aggiunta a quant’altro previsto nei paragrafi che precedono (in particolare alla voce
+                        "Ordini", "Profilazione" e "Cookie"), si informa che tramite il Sito e l’utilizzo delle relative
+                        funzionalità e/o l’adesione ai servizi ivi previsti possono essere raccolti e trattati per le
+                        finalità di seguito meglio precisate:
+
+                        • dati personali comuni e identificativi, quali nome, cognome, indirizzo o altri dati di
+                        contatto, data di nascita;
+                        • dati connessi o derivanti dalla navigazione sul Sito, quali gli indirizzi IP o i nomi a
+                        dominio dei computer utilizzati dagli utenti che si connettono al Sito, gli indirizzi in
+                        notazione URI (Uniform Resource Identifier) delle risorse richieste, l’orario della richiesta,
+                        il metodo utilizzato nel sottoporre la richiesta al server, la dimensione del file ottenuto in
+                        risposta, il codice numerico indicante lo stato della risposta data dal server (buon fine,
+                        errore, ecc.) ed altri parametri relativi al sistema operativo e all’ambiente informatico
+                        dell’utente;
+                        • dati sull’ordine e sul processo di acquisto;
+                        • dati sulle preferenze dell’utente manifestate in relazione od in occasione di determinati
+                        acquisti e/o in funzione dell’adesione a specifici servizi (come, a titolo meramente
+                        esemplificativo, per il servizio di "Ticket Alert").
+
+                        Per le finalità indicate nella presente informativa, la Società non raccoglie né tratta dati
+                        personali riconducibili al Cliente che il RGPD qualifica come "categorie particolari" (quali, a
+                        mero titolo esemplificativo, dati idonei a rivelare l’origine razziale ed etnica, le convinzioni
+                        religiose, filosofiche o di altro genere, le opinioni politiche, l’adesione ad associazioni od
+                        organizzazioni a carattere religioso, filosofico o sindacale, nonché i dati personali idonei a
+                        rivelare lo stato di salute) o dati relativi a condanne penali e reati.
+
+                        Art. 2. Base giuridica e finalità del trattamento
+                        Il trattamento dei dati personali (ivi inclusa la loro registrazione nelle anagrafiche della
+                        Società) è basato sulla sussistenza di un obbligo contrattuale o di legge oppure, a seconda dei
+                        casi e come meglio precisato al seguente capoverso, sulla sussistenza di un interesse legittimo
+                        di Ticket4U o sul Suo consenso, facoltativo e revocabile in qualunque momento, ed è diretto
+                        esclusivamente al raggiungimento delle seguenti finalità:
+
+                        a) in adempimento di obblighi contrattuali (art. 6 lett. b) RGPD) - per garantire l’iscrizione
+                        al Sito e la corretta erogazione dei servizi richiesti a Ticket4U tramite il Sito e/o tramite
+                        moduli e strumenti ivi messi a disposizione, ivi inclusi il servizio di ticketing e il servizio
+                        di newsletter, e, quindi, per adempiere in maniera corretta e puntuale a tutti gli obblighi
+                        derivanti dai rispettivi rapporti pre-contrattuali e contrattuali con Lei instaurati. Sono
+                        espressamente comprese le finalità di tipo amministrativo e contabile connesse e comunque
+                        derivanti dal contratto con Lei concluso, anche per quanto concerne l’eventuale trasmissione per
+                        posta elettronica di fatture commerciali da parte di Ticket4U e/o di società collegate alla
+                        stessa nell’erogazione del servizio di ticketing (ivi inclusa, a titolo esemplificativo, la
+                        procedura di rimborso del prezzo corrisposto e di emissione di nota di credito in conseguenza
+                        della cancellazione di un evento già acquistato). Rientra altresì in questo contesto, il
+                        servizio fornito dal Customer Care e, dunque, il trattamento dei dati personali dell’utente per
+                        la gestione e l’invio di risposte a richieste di assistenza in relazione ad uno o più dei
+                        servizi disponibili sul Sito;
+                        b) in adempimento di obblighi di legge (art. 6 lett. c) RGPD) – per l’adempimento di obblighi
+                        derivanti dalla legge o dai regolamenti, nazionali e/o comunitari, in vigore, in particolare, in
+                        ambito fiscale, nonché di pubblica sicurezza e in materia di "secondary ticketing", nonché da
+                        disposizioni impartite da autorità ed enti competenti;
+                        c) in forza di un legittimo interesse di Ticket4U (art. 6 lett. d) RGPD) consistente nella
+                        difesa in giudizio di un diritto od interesse dinanzi a qualunque autorità od ente competente,
+                        ivi espressamente incluso ai fini del recupero del credito; per consentire l’offerta diretta da
+                        parte di Ticket4U di prodotti o servizi analoghi (c.d. soft spamming) a quelli oggetto di
+                        precedente acquisto, limitatamente alle coordinate di posta elettronica da Lei fornite nel
+                        contesto dell’acquisto di un servizio tramite il Sito e salva Sua opposizione a tale
+                        trattamento; per la gestione organizzativa dell’evento acquistato o comunque di servizi a
+                        corredo di quest’ultimo, quali, a mero titolo esemplificativo, per informare in merito a
+                        eventuali annullamenti o rinvii di data dell’evento acquistato, come accedere o partecipare
+                        all’evento, come procedere a chiedere il rimborso in caso di cancellazione dell’evento; per la
+                        rilevazione del grado di soddisfazione della clientela sulla qualità dei servizi resi e
+                        sull’attività svolta da Ticket4U e lo svolgimento di analisi statistiche e indagini di mercato
+                        su dati aggregati;
+                        d) sulla base del Suo consenso (art. 6 lett. a) RGPD) – per finalità funzionali e
+                        strumentalmente connesse con l’attività di Ticket4U, quali:
+                        d).1 l’invio di materiale pubblicitario relativo a prodotti e/o servizi di Ticket4U e/o di
+                        terzi, a mezzo di sistemi automatizzati, quali e-mail, fax, sms o MMS, ovvero mediante modalità
+                        tradizionali (posta cartacea) (c.d. finalità di marketing);
+                        d).2 l’elaborazione del Suo profilo commerciale, tramite rilevazione ed elaborazione delle Sue
+                        scelte e abitudini di acquisto sul Sito, al fine sia di monitorare il grado di soddisfazione
+                        della clientela per assicurare un miglior soddisfacimento delle esigenze della stessa, sia di
+                        inviarle - a mezzo di sistemi automatizzati, quali e-mail, fax, sms o MMS, o mediante modalità
+                        tradizionali (posta cartacea ) - materiale pubblicitario, relativo a prodotti e/o servizi di
+                        Ticket4U e/o di terzi, di Suo specifico interesse (c.d. finalità di profilazione).
+
+                        Art. 3. Conferimento dei dati e conseguenze in caso di mancato conferimento
+                        Il conferimento dei dati per le finalità di cui ai punti a) (adempimento di obblighi
+                        contrattuali), b) (adempimento di obblighi di legge) e c) (legittimo interesse di Ticket4U)
+                        dell’art. 2 che precede è meramente facoltativo. Tuttavia, poiché tale trattamento è necessario
+                        per consentire la registrazione al Sito e la prestazione da parte di Ticket4U dei servizi da
+                        essa offerti tramite il Sito, compresi il servizio di ticketing e il servizio di newsletter, il
+                        mancato, parziale o inesatto conferimento dei dati in questione comporterà l’impossibilità, a
+                        seconda dei casi, di registrarsi al Sito e di usufruire dei servizi prestati on line da
+                        Ticket4U tramite il Sito e, in generale, di dare corso al rapporto contrattuale instaurando o
+                        instaurato e/o di assolvere gli adempimenti come previsti dal contratto o dalla legge
+                        applicabile o, ancora, di evadere Sue specifiche richieste, nonché l’impossibilità per la
+                        Società di inviarLe informative generiche su prodotti o servizi simili a quelli oggetto di un
+                        precedente acquisto, di svolgere indagini di mercato, anche dirette a valutare il grado di
+                        soddisfazione degli utenti e così migliorare i propri servizi, o comunque di perseguire propri
+                        legittimi interessi (quali la difesa in giudizio di un proprio diritto).
+
+                        Con riferimento alle finalità del trattamento indicate ai punti d).1) e d).2 (consenso)
+                        dell’art. 2 che precede (finalità di marketing e finalità di profilazione), facciamo presente
+                        che il conferimento dei Suoi dati è meramente facoltativo ed il relativo trattamento si basa sul
+                        consenso, facoltativo e revocabile in qualunque momento. Il mancato conferimento non comporterà
+                        alcuna conseguenza sulla possibilità di registrarsi al Sito e di usufruire del servizi prestati
+                        da Ticket4U tramite il Sito, ivi inclusa la possibilità di effettuare acquisti sullo stesso e
+                        implicherà esclusivamente le conseguenze di seguito descritte:
+                        - il mancato consenso al trattamento dei dati per le finalità di cui al punto d).1 dell’art. 2
+                        che precede (marketing), comporterà l’impossibilità per Lei di ricevere materiale pubblicitario
+                        relativo a prodotti e/o servizi di Ticket4U e/o di terzi;
+                        - il mancato consenso al trattamento dei Suoi dati personali per le finalità di cui al punto
+                        d).2 dell’art. 2 che precede (profilazione) comporterà l’impossibilità per la nostra Società di
+                        elaborare il Suo profilo commerciale, mediante la rilevazione delle Sue scelte e abitudini di
+                        acquisto sul Sito (anche al fine di garantire un maggior soddisfacimento delle esigenze della
+                        clientela ed il continuo miglioramento dei servizi offerti), nonché di inviarLe materiale
+                        pubblicitario, relativo a prodotti e/o servizi di Ticket4U e/o di terzi, di Suo specifico
+                        interesse.
+
+                        Fermo quanto precede, resta inteso che, in caso di un Suo diniego del consenso al trattamento
+                        dei dati personali che La riguardano per le finalità di cui al punto d) dell’art. 2 che precede,
+                        la nostra Società potrà comunque utilizzare i Suoi dati al solo fine di dare corretto
+                        adempimento agli obblighi previsti dalle leggi in vigore e agli obblighi derivanti dai rapporti
+                        contrattuali instauratori tra Lei e la Società e/o per il perseguimento di un proprio legittimo
+                        interesse, come indicato ai punti a), b) e c) dell’art. 2 che precede.
+
+                        Lei potrà, in ogni caso, revocare il consenso, eventualmente prestato per le finalità di cui ai
+                        punti d).1 e d).2 dell’art. 2 che precede (finalità di marketing e finalità di profilazione), in
+                        qualsiasi momento, tramite l’area "I miei dati" della sezione My Ticket4U" del Sito ovvero
+                        tramite il box "Preferenze privacy" messo a Sua disposizione durante il procedimento di
+                        acquisto.
+                        Resta inteso che l’eventuale successiva revoca del consenso non pregiudica la liceità del
+                        trattamento dei dati svolto nel periodo antecedente tale revoca.
+                        Inoltre, limitatamente alla finalità di cui al punto c) dell’art. 2 che precede (c.d.
+                        soft-spam), Le ricordiamo che Lei può opporsi al trattamento dei dati che la riguardano,
+                        inviando una email al seguente indirizzo: privacy@Ticket4U.it.
+
+                        Art. 4. Profilazione - Modalità del trattamento
+                        Come indicato al paragrafo 2 punto d).2 Ticket4U può svolgere attività di profilazione degli
+                        utenti.
+                        Tale finalità di trattamento viene perseguita tramite raccolta e trattamento di dati individuali
+                        e/o identificativi (dati anagrafici, dati di contatto) e relativa associazione od incrocio con
+                        interessi o preferenze di consumo (in relazione, ad esempio, a generi musicali, artisti, eventi
+                        e, in generale, alla tipologia di acquisti effettuati o all’adesione a determinati servizi) e/o
+                        ad altri macro-indicatori, quali la distribuzione geografica, la fascia di età, il sesso
+                        (maschile o femminile).
+                        Tali dati possono essere (i) conferiti direttamente dall’utente nel contesto dell’iscrizione ad
+                        uno specifico servizio e, dunque, allo scopo di ricevere informazioni legate ai propri
+                        interessi, oppure (ii) acquisiti ed elaborati sulla base delle preferenze di navigazione, anche
+                        tramite cookie od altri identificatori (incrociati con altri dati), o sugli interessi
+                        manifestati nel corso del processo di acquisto o di registrazione, anche tramite utilizzo di
+                        specifici algoritmi. La profilazione può essere condotta anche sulla base di dati aggregati
+                        derivanti da dati personali individuali. Tuttavia, non è possibile escludere che i dati a tale
+                        scopo utilizzati, anche se in forma aggregata, consentano l’identificazione dei soggetti
+                        interessati.
+
+                        Il trattamento dei dati personali che La riguardano sarà principalmente effettuato con l’ausilio
+                        di mezzi elettronici, anche automatizzati, secondo le modalità e con gli strumenti idonei a
+                        garantire la sicurezza e la riservatezza dei dati stessi. In particolare, saranno adottate tutte
+                        le misure tecniche, informatiche, organizzative, logistiche e procedurali di sicurezza, in modo
+                        che sia garantito un livello adeguato di protezione dei dati, come previsto dalla legge,
+                        consentendo l’accesso alle sole persone autorizzate al trattamento da parte del Titolare o dei
+                        Responsabili designati dal Titolare.
+                        Le informazioni acquisite e le modalità del trattamento saranno pertinenti e non eccedenti
+                        rispetto alla tipologia dei servizi resi.
+                        I dati saranno altresì gestiti e protetti in ambienti il cui accesso è sotto costante controllo.
+
+                        Art. 5. Comunicazione e diffusione dei dati
+                        I Suoi dati potranno essere comunicati alle seguenti categorie di soggetti ("destinatari"):
+                        a) a tutti quei soggetti (ivi incluse le Pubbliche Autorità) che hanno accesso ai dati personali
+                        in forza di provvedimenti normativi o amministrativi;
+                        b) a società terze i cui servizi vengono proposti o venduti tramite il Sito di Ticket4U (e, in
+                        particolare, a società o enti organizzatori di concerti, spettacoli, eventi sportivi o di altro
+                        tipo i cui biglietti sono venduti tramite il Sito), limitatamente alla gestione e verifica degli
+                        ingressi e dei titoli di ingresso agli eventi;
+                        c) agli istituti bancari ed alle società che gestiscono i circuiti nazionali o internazionali di
+                        pagamento tramite i quali vengono effettuati i pagamenti on line dei prodotti acquistati tramite
+                        il Sito;
+                        d) a tutti quei soggetti, pubblici e/o privati, persone fisiche e/o giuridiche (Uffici
+                        Giudiziari, Camere di Commercio, Camere ed Uffici del Lavoro, ecc.), qualora la comunicazione
+                        risulti necessaria o funzionale al corretto adempimento degli obblighi contrattuali assunti,
+                        nonché degli obblighi derivanti dalla legge.
+                        I dati che La riguardano non saranno diffusi, se non in forma anonima ed aggregata, per finalità
+                        statistiche o di ricerca.
+
+                        In aggiunta a quanto precede, per il perseguimento delle finalità descritte all’articolo 2 che
+                        precede, i dati personali potranno essere resi conoscibili a soggetti terzi che operano per
+                        conto di Ticket4U, quali, a titolo meramente esemplificativo e non esaustivo,
+                        • alle società o soggetti terzi incaricati dei servizi di stampa, imbustamento, spedizione e/o
+                        consegna dei biglietti acquistati tramite il Sito;
+                        • a corrieri o spedizionieri incaricati della consegna dei prodotti acquistati tramite il Sito;
+                        • a società, consulenti o professionisti eventualmente incaricati dell’installazione, della
+                        manutenzione, dell’aggiornamento e, in generale, della gestione degli hardware e software di
+                        Ticket4U o di cui la Società si serve per l’erogazione dei propri servizi;
+                        • a società o provider Internet incaricati dell’invio di documentazione e/o materiale
+                        informativo;
+                        • a società incaricate dell’elaborazione e/o dell’invio di materiale pubblicitario ed
+                        informativo per conto della nostra Società;
+                        • ad altre società appartenenti al nostro Gruppo, aventi sedi in Italia o all’estero,
+                        all’interno dell’Unione Europea,
+                        le quali potranno trattarli esclusivamente come responsabili esterni del trattamento dei dati
+                        personali per conto di Ticket4U
+                        Un elenco nominativo e aggiornato dei soggetti nominati quali responsabili del trattamento è
+                        disponibile presso la sede di Ticket4U.
+
+                        In ogni caso i dati personali di cui all’articolo 1 non saranno trasferiti verso Paesi extra-UE
+                        o al di fuori dello Spazio Economico Europeo.
+
+                        Art. 6. Titolare e Responsabile della Protezione dei Dati
+                        Il Titolare del trattamento dei dati personali è la società Ticket4U S.p.A., con sede legale in
+                        Milano, Via Fabio Filzi n. 29. Tutte le istanze e richieste relative al trattamento dei dati
+                        personali che La riguardano potranno essere indirizzate al Titolare, ai seguenti indirizzi:
+
+                        a) Ticket4U S.p.A., via Fabio Filzi n. 29 - Milano (Italia);
+                        b) indirizzo mail: privacy@Ticket4U.it;
+                        c) indirizzo fax: (+39) 02.3922.670.
+
+                        La Società ha nominato un proprio Responsabile della Protezione dei Dati che può essere
+                        contattato per questioni inerenti al trattamento dei dati personali all’indirizzo che precede o
+                        via email a: privacy@Ticket4U.it.
+
+                        Art. 7. Conservazione dei dati personali
+                        I dati personali che La riguardano saranno conservati per il solo tempo necessario a garantire
+                        la corretta prestazione dei servizi offerti dalla nostra Società e, in particolare, secondo
+                        quanto di seguito precisato:
+
+                        • Nel caso di cancellazione, esclusione o disabilitazione per mancato utilizzo del Suo account
+                        sul Sito, i Suoi dati saranno conservati per finalità amministrative per un periodo non
+                        superiore ad un trimestre, fatti salvi eventuali specifici obblighi di legge sulla conservazione
+                        di documentazione contabile o per finalità di pubblica sicurezza. In tali casi, sarà garantita
+                        la cancellazione dei dati anche da parte dei responsabili nominati cui gli stessi siano stati
+                        eventualmente comunicati.
+
+                        • In ogni caso, resta inteso che, i Suoi dati personali saranno trattati per le finalità di cui
+                        ai punti d).1 (finalità di marketing) e d).2 (finalità di profilazione) dell’art. 2 che precede
+                        per il periodo di tempo consentito dalla legge e dalle prescrizioni del Garante per la
+                        Protezione dei Dati Personali (Autorità di Controllo) e, dunque, per un periodo di 24 mesi dalla
+                        relativa registrazione, in occasione della prestazione originaria del consenso e/o dal relativo
+                        rinnovo, per finalità di marketing e per un periodo di 12 mesi dalla relativa registrazione, in
+                        occasione della prestazione originaria del consenso e/o dal relativo rinnovo, per finalità di
+                        profilazione.
+
+                        Più in particolare si segnala all’utente che:
+
+                        ‐ decorsi 24 mesi, i Suoi dati personali non saranno più trattati per la finalità di cui al
+                        punto d).1 dell’art. 2 che precede; e
+                        ‐ decorsi 12 mesi, i Suoi dati personali non saranno più trattati per la finalità di cui al
+                        punto d).2 dell’art. 2 che precede,
+
+                        fermo restando che, nel caso in cui Lei dovesse prestare nuovamente il Suo consenso per una od
+                        entrambe tali finalità, i dati, anche relativi allo storico ordini, precedentemente acquisiti e
+                        conservati per le finalità di cui ai punti a), b) e c) dell’art. 2 che precede, potranno
+                        nuovamente essere utilizzati per la finalità di profilazione di cui al punto d) dell’art. 2
+                        citato.
+
+                        • salvo quanto sopra indicato, i dati dell’utente saranno trattati e conservati per tutta la
+                        durata del rapporto contrattuale e, successivamente, per il tempo massimo previsto dalle
+                        disposizioni di legge applicabili in materia di prescrizione dei diritti e/o decadenza
+                        dell’azione e, in generale, per l’esercizio/difesa dei diritti di Ticket4U nelle vertenze
+                        promosse da pubbliche autorità, soggetti /enti pubblici e soggetti privati.
+
+                        Art. 8. Consenso e rinnovo del consenso
+                        La informiamo, infine, che il consenso al trattamento, ove previsto e prestato, può essere
+                        revocato in qualsiasi momento anche in relazione a trattamenti per i quali il consenso sia stato
+                        acquisito prima della pubblicazione e consegna della presente informativa. Si prega di notare
+                        che la revoca del consenso è valida solo per il futuro e non ha alcun effetto sul trattamento
+                        avvenuto prima della stessa.
+
+                        Si richiama, inoltre, la Sua attenzione sul fatto che durante il procedimento di acquisto,
+                        tramite il box "Preferenze privacy" Le è data la possibilità di modificare le Sue preferenze sul
+                        trattamento dei dati personali, acconsentendo al trattamento di tali dati per finalità di
+                        marketing e/o di profilazione, qualora non lo abbia già fatto, ovvero revocando il consenso
+                        eventualmente in precedenza espresso.
+                        Le ricordiamo che nel caso in cui non proceda alla modifica delle preferenze sul trattamento dei
+                        dati personali che troverà rappresentate nel box suddetto, cliccando sul tasto "Salva e vai al
+                        pagamento" confermerà tali preferenze, con la conseguenza, qualora Lei abbia già conferito il
+                        consenso al trattamento dei suoi dati per finalità di marketing e/o di profilazione, di
+                        rinnovare il consenso già prestato, a tutti gli effetti, compreso quello relativo ai tempi di
+                        conservazione.
+
+                        Art. 9. Minori di anni 16
+                        Il Sito non contiene informazioni né funzionalità o servizi direttamente destinati a utenti di
+                        età inferiore a 16 anni. I minori non devono conferire informazioni o dati personali in assenza
+                        del consenso degli esercenti la responsabilità genitoriale su di loro.
+                        Ticket4U invita, dunque, tutti gli utenti che non abbiano compiuto 16 anni a non comunicare in
+                        nessun caso i propri dati personali senza la previa autorizzazione di un genitore o
+                        dell’esercente la responsabilità genitoriale. Qualora la Società venisse a conoscenza del fatto
+                        che i dati personali sono stati forniti da persona minore di età (minore di anni 16), la Società
+                        stessa provvederà all’immediata distruzione degli stessi o a chiedere la trasmissione di
+                        apposito consenso da parte dei genitori (o dell’esercente la responsabilità genitoriale),
+                        riservandosi altresì la facoltà di inibire l’accesso ai servizi disponibili sul Sito a qualsiasi
+                        utente che abbia celato la propria minore età o che abbia comunque comunicato i propri dati
+                        personali in assenza del consenso dei propri genitori (o dell’esercente la responsabilità
+                        genitoriale).
+
+                        Art. 10. Diritti degli interessati
+                        In qualità di interessato del trattamento, Lei ha diritto di chiedere al Titolare di esercitare
+                        i seguenti diritti:
+
+                        Diritto di accesso
+                        Potrà richiedere di ottenere la conferma in merito all’esistenza o meno di un trattamento sui
+                        Suoi dati personali e, in caso positivo, di accedere a tali dati e ad informazioni specifiche
+                        sul trattamento, quali, a titolo esemplificativo, le finalità, le categorie di dati oggetto di
+                        trattamento, l’esistenza degli altri diritti di seguito indicati. Potrà, inoltre, chiedere una
+                        copia dei Suoi dati.
+
+                        Diritto di rettifica
+                        Ha il diritto di chiedere ed ottenere rettifica dei dati personali che La riguardano e/o
+                        l’integrazione dei dati personali incompleti.
+
+                        Diritto di cancellazione
+                        Potrà ottenere la cancellazione dei Suoi dati, senza ingiustificato ritardo, se (i) tali dati
+                        non sono più necessari per le finalità per cui sono stati raccolti, (ii) Lei ha revocato il Suo
+                        consenso che costituiva fondamento per il trattamento (salvo che non sussista altra base
+                        giuridica per tale trattamento), (iii) si oppone al trattamento dei suoi dati (come di seguito
+                        indicato) e non sussiste altro motivo legittimo prevalente per il trattamento o se si oppone al
+                        trattamento dei suoi dati per marketing o per profilazione finalizzata al marketing, (iv) i Suoi
+                        dati sono trattati illecitamente, (v) i Suoi dati devono essere cancellati in forza di un
+                        obbligo di legge, (vi) sono stati raccolti dati personali di un minore di 16 anni in relazione
+                        all’offerta di servizi della società dell’informazione.
+                        La invitiamo a considerare che tale diritto non si applica se il trattamento dei dati è
+                        necessario, tra l’altro:
+                        - per l’adempimento di un obbligo di legge;
+                        - per l’accertamento, l’esercizio o la difesa in giudizio di un diritto.
+
+                        Diritto di limitazione
+                        Lei ha diritto di ottenere la limitazione del trattamento in caso di:
+                        - contestazione dell’esattezza dei dati personali che La riguardano entro il termine necessario
+                        al titolare (Società) per verificare l’esattezza di questi dati;
+                        - trattamento illecito e richiesta da parte Sua della limitazione d’uso in luogo della relativa
+                        cancellazione;
+                        - necessità da parte Sua dei dati per l’accertamento, l’esercizio o la difesa di un diritto in
+                        sede giudiziaria;
+                        - opposizione da parte Sua al trattamento, come di seguito indicato, in attesa di verifica di
+                        prevalenza di motivi legittimi da parte del titolare.
+
+                        Diritto alla portabilità
+                        Lei ha diritto di ricevere in formato strutturato, di uso comune e leggibile da dispositivo
+                        automatico i dati personali che La riguardano e di trasmetterli ad altro titolare del
+                        trattamento in relazione alle ipotesi in cui il trattamento dei suoi dati si basi sul consenso
+                        oppure riguardi categorie particolari di dati personali trattati sulla base del Suo consenso
+                        oppure il trattamento sia fondato sull’esecuzione di un contratto e tale trattamento sia
+                        effettuato con messi automatizzati.
+                        Ha altresì diritto ad ottenere la trasmissione diretta dei dati da un titolare all’altro, ove
+                        tecnicamente fattibile.
+                        Resta salva la possibilità di ottenere la cancellazione dei dati, come sopra indicato.
+
+                        Diritto di opposizione
+                        Ha il diritto di opporsi in qualsiasi momento al trattamento basato su un legittimo interesse
+                        del titolare, salva la dimostrazione da parte di quest’ultimo di motivi legittimi cogenti per
+                        procedere al trattamento che prevalgano sugli interessi, diritti e libertà fondamentali
+                        dell’interessato oppure per l’accertamento, l’esercizio o la difesa di un diritto in sede
+                        giudiziaria.
+
+                        Inoltre, ha diritto di proporre reclamo all’Autorità di Controllo.
+
+                        I diritti di cui sopra potranno essere esercitati con richiesta rivolta senza formalità al
+                        Titolare. La richiesta potrà essere inviata al Titolare tramite lettera o posta elettronica ai
+                        seguenti indirizzi: Via Fabio Filzi n. 29 - Milano (Italia) email: privacy@Ticket4U.it.
+
+                        La presente informativa sarà efficace a far data dal 25 maggio 2018. La informiamo, infine, che
+                        potrà visualizzare l’informativa precedente al seguente link:
+                        www.Ticket4U.it/OldPrivacyStatement
+
+                        Ticket4U S.p.A
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer>
+        <div class="one_quarter">
+            <div style="text-align:center">
+                <p class="nospace btmspace-15" style="color: white; width=58;">
+                    Ticket4U | Biglietti per Concerti, Spettacolo, Sport e Cultura</p>
+            </div> <br>
+        </div>
+        <div class="footer">
+            <div>
+                <ul>
+                    <li class="title">Ticket4U</li>
+                    <li><a href="/termini" style="text-decoration: none; color:white;">Termini e condizioni di acquisto</a></li>
+                    <li><a href="/privacy" style="text-decoration: none; color:white;">Privacy</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <ul>
+                    <li class="title">Società</li>
+                    <li><a href="/chisiamo" style="text-decoration: none; color:white;">Chi siamo</a></li>
+                    <li><a href="/dovesiamo" style="text-decoration: none; color:white;">Dove Siamo</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <ul>
+                    <li class="title">Contatti</li>
+                    <li>ticket4U@gmail.com</li>
+                    <li>03331238123</li>
+                </ul>
+            </div>
+        </div>
+
+    </footer>
+</body>
+
+
+</html>

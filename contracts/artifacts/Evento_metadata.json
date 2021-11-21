@@ -1,0 +1,530 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_ticketContractAddress",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_ticketId",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "biglietto_acquistato",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_ticketId",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "biglietto_sigillato",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_ticketId",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "biglietto_validato",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "_nome",
+						"type": "string"
+					}
+				],
+				"name": "evento_creato",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "evento_eliminato",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "_user",
+						"type": "address"
+					},
+					{
+						"indexed": false,
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "_nome",
+						"type": "string"
+					}
+				],
+				"name": "evento_modificato",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "bigliettiRimanenti",
+				"outputs": [
+					{
+						"internalType": "uint24",
+						"name": "",
+						"type": "uint24"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "compraBiglietto",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_nome",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_data",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_descr",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_artista",
+						"type": "string"
+					},
+					{
+						"internalType": "uint24",
+						"name": "_totali",
+						"type": "uint24"
+					}
+				],
+				"name": "creaEvento",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "eliminaEvento",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "events",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "nome",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "data",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "descr",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "artista",
+						"type": "string"
+					},
+					{
+						"internalType": "uint24",
+						"name": "totali",
+						"type": "uint24"
+					},
+					{
+						"internalType": "uint24",
+						"name": "disponibili",
+						"type": "uint24"
+					},
+					{
+						"internalType": "address",
+						"name": "proprietario",
+						"type": "address"
+					},
+					{
+						"internalType": "bool",
+						"name": "exists",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getEventsIndex",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "getSingoloEvento",
+				"outputs": [
+					{
+						"components": [
+							{
+								"internalType": "string",
+								"name": "nome",
+								"type": "string"
+							},
+							{
+								"internalType": "string",
+								"name": "data",
+								"type": "string"
+							},
+							{
+								"internalType": "string",
+								"name": "descr",
+								"type": "string"
+							},
+							{
+								"internalType": "string",
+								"name": "artista",
+								"type": "string"
+							},
+							{
+								"internalType": "uint24",
+								"name": "totali",
+								"type": "uint24"
+							},
+							{
+								"internalType": "uint24",
+								"name": "disponibili",
+								"type": "uint24"
+							},
+							{
+								"internalType": "address",
+								"name": "proprietario",
+								"type": "address"
+							},
+							{
+								"internalType": "bool",
+								"name": "exists",
+								"type": "bool"
+							}
+						],
+						"internalType": "struct Evento.EventData",
+						"name": "",
+						"type": "tuple"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "id",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "_nome",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_data",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_descr",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_artista",
+						"type": "string"
+					},
+					{
+						"internalType": "uint24",
+						"name": "_disponibili",
+						"type": "uint24"
+					},
+					{
+						"internalType": "address",
+						"name": "_proprietario",
+						"type": "address"
+					}
+				],
+				"name": "modificaEvento",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_ticketId",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_sigillo",
+						"type": "uint256"
+					}
+				],
+				"name": "sigillaBiglietto",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ticketContractAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_ticketId",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_eventId",
+						"type": "uint256"
+					}
+				],
+				"name": "validaBiglietto",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Evento.sol": "Evento"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Evento.sol": {
+			"keccak256": "0x71b63ceab2985bd989bed305deaf3aae19c1a26a31c01c6ecac89f71f96f1195",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://e11df620920cf27d859824866f8e0935f28d15ded3e33f8358de08909cf86229",
+				"dweb:/ipfs/QmdQYWD1TVTjKPYBEep1SuTLmK3ZPuZRCjS9UVi8ws2gTM"
+			]
+		},
+		"contracts/Ticket.sol": {
+			"keccak256": "0x035b55dd92e0f3b46ec2bc6f5aa9881fb04b189da8f15a0035aef8ce3a9d4802",
+			"license": "UNLICENSED",
+			"urls": [
+				"bzz-raw://ee6804c31471d29604bda718123a3eac5b67c073ed78020406ed964d3f42011b",
+				"dweb:/ipfs/Qma5e5HubfXZFZbtNs932eE29aoM56Esb34ueBkihw9UGx"
+			]
+		}
+	},
+	"version": 1
+}

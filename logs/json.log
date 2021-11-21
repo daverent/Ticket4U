@@ -1,0 +1,86 @@
+{"level":"system","message":"\tServer Started","timestamp":"21-11-2021 15:03:58"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:04:04"}
+{"level":"info","message":"\tID: UNLOGGED | Visiting @home","timestamp":"21-11-2021 15:04:04"}
+{"level":"system","message":"\tServer Started","timestamp":"21-11-2021 15:04:05"}
+{"level":"action","message":"\tEMAIL: admin@admin.it | Registration succesful!","timestamp":"21-11-2021 15:04:20"}
+{"level":"system","message":"\tServer Started","timestamp":"21-11-2021 15:04:32"}
+{"level":"info","message":"\tNew Account creation on local node completed","timestamp":"21-11-2021 15:05:27"}
+{"level":"action","message":"\tEMAIL: utente@utente.it | Registration succesful!","timestamp":"21-11-2021 15:05:27"}
+{"level":"info","message":"\tNew Account creation on local node completed","timestamp":"21-11-2021 15:05:52"}
+{"level":"action","message":"\tEMAIL: manager@manager.it | Registration succesful!","timestamp":"21-11-2021 15:05:52"}
+{"level":"info","message":"\tNew Account creation on local node completed","timestamp":"21-11-2021 15:06:23"}
+{"level":"action","message":"\tEMAIL: biglietteria@biglietteria.it | Registration succesful!","timestamp":"21-11-2021 15:06:23"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:32"}
+{"level":"action","message":"\tID: 3 | Is now logged with ROLE: 0","timestamp":"21-11-2021 15:06:32"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:34"}
+{"level":"info","message":"\tID: 3 | Visiting @eventi","timestamp":"21-11-2021 15:06:34"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:37"}
+{"level":"action","message":"\tID: 3 | Logout succesfull","timestamp":"21-11-2021 15:06:37"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:41"}
+{"level":"info","message":"\tID: 1 | Visiting @systemLogin","timestamp":"21-11-2021 15:06:41"}
+{"level":"action","message":"\tID: undefined | Admin login succesfull!","timestamp":"21-11-2021 15:06:41"}
+{"level":"info","message":"\tID: 1 | Visiting @gestioneUtenti","timestamp":"21-11-2021 15:06:41"}
+{"level":"action","message":"\tID: 1 | Admin modifies role of EMAIL: manager@manager.it in ROLE: 1","timestamp":"21-11-2021 15:06:44"}
+{"level":"action","message":"\tID: 1 | Admin modifies role of EMAIL: biglietteria@biglietteria.it in ROLE: 2","timestamp":"21-11-2021 15:06:46"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:47"}
+{"level":"action","message":"\tID: 1 | Logout succesfull","timestamp":"21-11-2021 15:06:47"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:52"}
+{"level":"action","message":"\tID: 3 | Is now logged with ROLE: 1","timestamp":"21-11-2021 15:06:52"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:06:53"}
+{"level":"info","message":"\tID: 3 | Visiting @eventi","timestamp":"21-11-2021 15:06:53"}
+{"level":"info","message":"\tID: 3 | Visiting @insericiEventi","timestamp":"21-11-2021 15:06:54"}
+{"level":"action","message":"\tID :3 | Event addition of EVENTO: Concerto In Piazza succesful!","timestamp":"21-11-2021 15:07:16"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:07:16"}
+{"level":"info","message":"\tID: 3 | Visiting @insericiEventi","timestamp":"21-11-2021 15:07:17"}
+{"level":"action","message":"\tID :3 | Event addition of EVENTO: Spettacolo a Teatro succesful!","timestamp":"21-11-2021 15:07:56"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:07:56"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:07:58"}
+{"level":"action","message":"\tID: 3 | Logout succesfull","timestamp":"21-11-2021 15:07:58"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:03"}
+{"level":"action","message":"\tID: 2 | Is now logged with ROLE: 0","timestamp":"21-11-2021 15:08:03"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:05"}
+{"level":"info","message":"\tID: 2 | Visiting @eventi","timestamp":"21-11-2021 15:08:05"}
+{"level":"info","message":"\tID: 2 | Visiting @compraBiglietto","timestamp":"21-11-2021 15:08:06"}
+{"level":"info","message":"\tUser's ticket reading requested","timestamp":"21-11-2021 15:08:06"}
+{"level":"action","message":"\tID :2 | Purchase of 3 ticket/s succesful!","timestamp":"21-11-2021 15:08:11"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:12"}
+{"level":"info","message":"\tID: 2 | Visiting @eventi","timestamp":"21-11-2021 15:08:12"}
+{"level":"info","message":"\tID: 2 | Visiting @compraBiglietto","timestamp":"21-11-2021 15:08:13"}
+{"level":"info","message":"\tUser's ticket reading requested","timestamp":"21-11-2021 15:08:13"}
+{"level":"action","message":"\tID :2 | Purchase of 3 ticket/s succesful!","timestamp":"21-11-2021 15:08:21"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:22"}
+{"level":"action","message":"\tID: 2 | Logout succesfull","timestamp":"21-11-2021 15:08:22"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:22"}
+{"level":"info","message":"\tID: UNLOGGED | Visiting @eventi","timestamp":"21-11-2021 15:08:22"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:29"}
+{"level":"action","message":"\tID: 4 | Is now logged with ROLE: 2","timestamp":"21-11-2021 15:08:29"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:08:31"}
+{"level":"info","message":"\tID: 4 | Visiting @eventi","timestamp":"21-11-2021 15:08:31"}
+{"level":"info","message":"\tID: 4 | Visiting @sigillo","timestamp":"21-11-2021 15:08:33"}
+{"level":"action","message":"\tID :4 | Sealing of TICKET: 0 succesful!","timestamp":"21-11-2021 15:08:46"}
+{"level":"action","message":"\tID :4 | Sealing of TICKET: 1 succesful!","timestamp":"21-11-2021 15:08:56"}
+{"level":"action","message":"\tID :4 | Sealing of TICKET: 3 succesful!","timestamp":"21-11-2021 15:09:11"}
+{"level":"action","message":"\tID :4 | Sealing of TICKET: 4 succesful!","timestamp":"21-11-2021 15:09:21"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:09:21"}
+{"level":"action","message":"\tID: 4 | Logout succesfull","timestamp":"21-11-2021 15:09:21"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:09:28"}
+{"level":"action","message":"\tID: 3 | Is now logged with ROLE: 1","timestamp":"21-11-2021 15:09:28"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:09:29"}
+{"level":"info","message":"\tID: 3 | Visiting @eventi","timestamp":"21-11-2021 15:09:29"}
+{"level":"info","message":"\tID: 3 | Visiting @validazione","timestamp":"21-11-2021 15:09:31"}
+{"level":"error","reason":"Il biglietto deve essere prima sigillato da una biglietteria!","receipt":{"blockHash":"0xc8fca1bca3831958e034a56910b13beef6026b2246fa2c7702c7c6d9adb66c0d","blockNumber":87,"contractAddress":null,"cumulativeGasUsed":38852,"events":{},"from":"0x7715532606b097538c71eeaab981b1558d61b9c1","gasUsed":38852,"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","status":false,"to":"0x43bc08fb760ff949f339c7717102b06cd4db5361","transactionHash":"0xff76461365ea0fafcd2b65d178d7077dd5fdd29797d6099eab53b3da2b1d5ff3","transactionIndex":0},"signature":"Error(String)","timestamp":"21-11-2021 15:09:41"}
+{"level":"info","message":"\tID: 3 | Visiting @validazione","timestamp":"21-11-2021 15:09:45"}
+{"level":"error","reason":"Il biglietto deve essere prima sigillato da una biglietteria!","receipt":{"blockHash":"0xdda2e508982ca0d228bf14d8c45e6e8fcedcdeeb2bba9643cdd6782ac4d01f1c","blockNumber":89,"contractAddress":null,"cumulativeGasUsed":38852,"events":{},"from":"0x7715532606b097538c71eeaab981b1558d61b9c1","gasUsed":38852,"logsBloom":"0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000","status":false,"to":"0x43bc08fb760ff949f339c7717102b06cd4db5361","transactionHash":"0x90980ca40212b71d16e493334f875e57bc54698ce56a8f613ec9abb8c2dc79a0","transactionIndex":0},"signature":"Error(String)","timestamp":"21-11-2021 15:09:51"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:10:47"}
+{"level":"action","message":"\tID: 3 | Logout succesfull","timestamp":"21-11-2021 15:10:47"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:10:53"}
+{"level":"action","message":"\tID: 4 | Is now logged with ROLE: 2","timestamp":"21-11-2021 15:10:53"}
+{"level":"info","message":"\tID: 4 | Visiting @sigillo","timestamp":"21-11-2021 15:10:54"}
+{"level":"action","message":"\tID :4 | Sealing of TICKET: 0 succesful!","timestamp":"21-11-2021 15:11:06"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:11:07"}
+{"level":"action","message":"\tID: 4 | Logout succesfull","timestamp":"21-11-2021 15:11:07"}
+{"level":"info","message":"\tReading events from blockchain completed succesfully","timestamp":"21-11-2021 15:11:13"}
+{"level":"action","message":"\tID: 3 | Is now logged with ROLE: 1","timestamp":"21-11-2021 15:11:13"}
+{"level":"info","message":"\tID: 3 | Visiting @validazione","timestamp":"21-11-2021 15:11:14"}
+{"level":"action","message":"\tID :3 | Validation of TICKET: 0 succesful!","timestamp":"21-11-2021 15:11:26"}
+{"level":"action","message":"\tID :3 | Validation of TICKET: 3 succesful!","timestamp":"21-11-2021 15:11:36"}

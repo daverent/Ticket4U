@@ -1,0 +1,958 @@
+15:02:00.643 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - cakeshop.config.dir=qdata/cakeshop
+15:02:00.648 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Adding data/local/ and qdata/cakeshop/local to config file search locations for backwards compatibility: file:./data/local/,file:./qdata/cakeshop/local/
+Extracting binaries to /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin
+15:02:00.664 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp
+15:02:00.665 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp/index.js
+15:02:00.670 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp/History.md
+15:02:00.670 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp/package.json
+15:02:00.670 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp/Readme.md
+15:02:00.670 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-to-regexp/LICENSE
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/index.js
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/debug.js
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/package.json
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/README.md
+15:02:00.671 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/https.js
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/http.js
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/follow-redirects/LICENSE
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits/inherits.js
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits/package.json
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits/README.md
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits/inherits_browser.js
+15:02:00.672 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inherits/LICENSE
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl/index.js
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl/package.json
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl/README.md
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl/HISTORY.md
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/encodeurl/LICENSE
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes
+15:02:00.673 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes/index.js
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes/History.md
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes/package.json
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes/Readme.md
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bytes/LICENSE
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/Makefile
+15:02:00.674 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/.eslintrc
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/karma.conf.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src/browser.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src/index.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src/debug.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src/inspector-log.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/src/node.js
+15:02:00.675 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/package.json
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/CHANGELOG.md
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/README.md
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/.npmignore
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/node.js
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/.travis.yml
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/component.json
+15:02:00.676 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/LICENSE
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/debug/.coveralls.yml
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/test
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/test/map.js
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/index.js
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/README.markdown
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/package.json
+15:02:00.677 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/.travis.yml
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/example
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/example/map.js
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/concat-map/LICENSE
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-is-absolute
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-is-absolute/index.js
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-is-absolute/readme.md
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-is-absolute/package.json
+15:02:00.678 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/path-is-absolute/license
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie/index.js
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie/package.json
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie/README.md
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie/HISTORY.md
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie/LICENSE
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr
+15:02:00.679 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr/index.js
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr/package.json
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr/README.md
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr/HISTORY.md
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/proxy-addr/LICENSE
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors/index.js
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors/package.json
+15:02:00.680 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors/README.md
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors/HISTORY.md
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/http-errors/LICENSE
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/brace-expansion
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/brace-expansion/index.js
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/brace-expansion/package.json
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/brace-expansion/README.md
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/brace-expansion/LICENSE
+15:02:00.681 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/destroy
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/destroy/index.js
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/destroy/package.json
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/destroy/README.md
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/destroy/LICENSE
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/escape-html
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/escape-html/index.js
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/escape-html/package.json
+15:02:00.682 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/escape-html/Readme.md
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/escape-html/LICENSE
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/src
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/src/build.js
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/src/test.js
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/package.json
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/CHANGELOG.md
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/README.md
+15:02:00.683 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/mime.js
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/.npmignore
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/cli.js
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/LICENSE
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime/types.json
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer/index.js
+15:02:00.684 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer/package.json
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer/README.md
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer/HISTORY.md
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/media-typer/LICENSE
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/index.js
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander
+15:02:00.685 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/index.js
+15:02:00.686 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/package.json
+15:02:00.686 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/CHANGELOG.md
+15:02:00.686 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/Readme.md
+15:02:00.686 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/typings
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/typings/index.d.ts
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/node_modules/commander/LICENSE
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/package.json
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/README.md
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/solcjs
+15:02:00.687 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/soljson.js
+15:02:00.843 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/smtsolver.js
+15:02:00.844 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/smtchecker.js
+15:02:00.844 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/translate.js
+15:02:00.844 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/linker.js
+15:02:00.845 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/abi.js
+15:02:00.845 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/wrapper.js
+15:02:00.845 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc/LICENSE
+15:02:00.845 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/require-from-string
+15:02:00.845 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/require-from-string/index.js
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/require-from-string/readme.md
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/require-from-string/package.json
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/require-from-string/license
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/index.js
+15:02:00.846 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/History.md
+15:02:00.847 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/package.json
+15:02:00.847 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/middleware
+15:02:00.847 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/middleware/init.js
+15:02:00.847 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/middleware/query.js
+15:02:00.847 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/application.js
+15:02:00.848 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/router
+15:02:00.848 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/router/index.js
+15:02:00.848 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/router/route.js
+15:02:00.848 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/router/layer.js
+15:02:00.848 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/utils.js
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/response.js
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/express.js
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/view.js
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/lib/request.js
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/Readme.md
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/express/LICENSE
+15:02:00.849 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/index.js
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/package.json
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/README.md
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/read.js
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/types
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/types/text.js
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/types/urlencoded.js
+15:02:00.850 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/types/json.js
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/lib/types/raw.js
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/HISTORY.md
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/body-parser/LICENSE
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types/index.js
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types/package.json
+15:02:00.851 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types/README.md
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types/HISTORY.md
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-types/LICENSE
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe/index.js
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe/package.json
+15:02:00.852 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe/README.md
+15:02:00.853 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe/HISTORY.md
+15:02:00.853 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/unpipe/LICENSE
+15:02:00.853 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/browser
+15:02:00.853 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/browser/bluebird.core.min.js
+15:02:00.853 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/browser/bluebird.js
+15:02:00.854 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/browser/bluebird.min.js
+15:02:00.855 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/browser/bluebird.core.js
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/settle.js
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/nodeify.js
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/synchronous_inspection.js
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/util.js
+15:02:00.856 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/debuggability.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/promise_array.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/thenables.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/props.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/some.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/es5.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/method.js
+15:02:00.857 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/queue.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/nodeback.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/any.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/errors.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/direct_resolve.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/cancel.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/context.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/promise.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/race.js
+15:02:00.858 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/timers.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/call_get.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/bind.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/assert.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/map.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/finally.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/reduce.js
+15:02:00.859 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/bluebird.js
+15:02:00.860 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/filter.js
+15:02:00.860 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/promisify.js
+15:02:00.860 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/catch_filter.js
+15:02:00.860 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/schedule.js
+15:02:00.860 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/join.js
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/each.js
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/using.js
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/generators.js
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/js/release/async.js
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/package.json
+15:02:00.861 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/changelog.md
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/README.md
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/bluebird/LICENSE
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/ipaddr.min.js
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/package.json
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/README.md
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/lib
+15:02:00.862 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/lib/ipaddr.js
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/lib/ipaddr.js.d.ts
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ipaddr.js/LICENSE
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary/index.js
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary/package.json
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary/README.md
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary/HISTORY.md
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/vary/LICENSE
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin
+15:02:00.863 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin/mime
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin/solc
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin/semver
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin/solcjs
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/.bin/rimraf
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type/index.js
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type/package.json
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type/README.md
+15:02:00.864 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type/HISTORY.md
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-type/LICENSE
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/test
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/test/memorystream.test.js
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/test/example.js
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/index.js
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/package.json
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/README.md
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/.npmignore
+15:02:00.865 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/Gruntfile.js
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/memorystream/LICENSE
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath/index.js
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath/package.json
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath/README.md
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath/old.js
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs.realpath/LICENSE
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/glob.js
+15:02:00.866 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/sync.js
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/package.json
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/changelog.md
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/README.md
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/common.js
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/glob/LICENSE
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge/index.js
+15:02:00.867 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge/package.json
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge/README.md
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge/.npmignore
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/utils-merge/LICENSE
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp/package.json
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp/README.md
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp/lib
+15:02:00.868 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp/lib/tmp.js
+15:02:00.869 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/tmp/LICENSE
+15:02:00.869 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/test
+15:02:00.869 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/test/simplestorage2.sol
+15:02:00.869 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/test/simplefail.sol
+15:02:00.869 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/test/simplestorage.sol
+15:02:00.870 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/.idea
+15:02:00.870 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/.idea/vcs.xml
+15:02:00.870 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/.idea/modules.xml
+15:02:00.870 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/.idea/solc-cakeshop-cli.iml
+15:02:00.870 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/.idea/misc.xml
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/package.json
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/README.md
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/bin
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/bin/solc
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/solc-cakeshop-cli/LICENSE
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/index.js
+15:02:00.871 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/node_modules/ms
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/node_modules/ms/index.js
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/node_modules/ms/readme.md
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/node_modules/ms/package.json
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/node_modules/ms/license.md
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/package.json
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/README.md
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/HISTORY.md
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/send/LICENSE
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/test
+15:02:00.872 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/test/non-executable-script.js
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/test/executable-script.js
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/test/executable-script.cmd
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/test/test.js
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/index.js
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/package.json
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/README.md
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/lib
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/lib/command-exists.js
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/.jshintrc
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/.travis.yml
+15:02:00.873 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/appveyor.yml
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/command-exists/LICENSE
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/toidentifier
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/toidentifier/index.js
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/toidentifier/package.json
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/toidentifier/README.md
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/toidentifier/LICENSE
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/os-tmpdir
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/os-tmpdir/index.js
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/os-tmpdir/readme.md
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/os-tmpdir/package.json
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/os-tmpdir/license
+15:02:00.874 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander/index.js
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander/History.md
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander/package.json
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander/Readme.md
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/commander/LICENSE
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/package.json
+15:02:00.875 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/CHANGELOG.md
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/README.md
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/semver.js
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/bin
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/bin/semver
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/range.bnf
+15:02:00.876 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/semver/LICENSE
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/index.js
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/History.md
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/package.json
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/browser
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/browser/index.js
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/compat
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/compat/event-listener-count.js
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/compat/index.js
+15:02:00.877 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/lib/compat/callsite-tostring.js
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/Readme.md
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/depd/LICENSE
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/index.js
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/package.json
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/README.md
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/HISTORY.md
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/codes.json
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/statuses/LICENSE
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body
+15:02:00.878 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/index.js
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/package.json
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/README.md
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/HISTORY.md
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/index.d.ts
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/raw-body/LICENSE
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl/index.js
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl/package.json
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl/README.md
+15:02:00.879 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl/HISTORY.md
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/parseurl/LICENSE
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors/index.js
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors/package.json
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors/README.md
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors/HISTORY.md
+15:02:00.880 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/merge-descriptors/LICENSE
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/array-flatten
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/array-flatten/array-flatten.js
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/array-flatten/package.json
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/array-flatten/README.md
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/array-flatten/LICENSE
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/package.json
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/README.md
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/internal.js
+15:02:00.881 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables
+15:02:00.882 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/shiftjis.json
+15:02:00.882 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/cp936.json
+15:02:00.882 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/eucjp.json
+15:02:00.883 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/gbk-added.json
+15:02:00.883 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/big5-added.json
+15:02:00.883 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json
+15:02:00.883 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/cp950.json
+15:02:00.883 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/tables/cp949.json
+15:02:00.884 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/sbcs-data-generated.js
+15:02:00.884 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/index.js
+15:02:00.884 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/utf16.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/sbcs-codec.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/sbcs-data.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/dbcs-codec.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/dbcs-data.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/encodings/utf7.js
+15:02:00.885 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib/bom-handling.js
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib/index.js
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib/streams.js
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib/extend-node.js
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/lib/index.d.ts
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/Changelog.md
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/iconv-lite/LICENSE
+15:02:00.886 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ms
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ms/index.js
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ms/readme.md
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ms/package.json
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ms/license.md
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/wrappy
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/wrappy/package.json
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/wrappy/README.md
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/wrappy/wrappy.js
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/wrappy/LICENSE
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match/index.js
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match/LICENSE.md
+15:02:00.887 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match/package.json
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match/README.md
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/balanced-match/.npmignore
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf/package.json
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf/README.md
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf/bin.js
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf/rimraf.js
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/rimraf/LICENSE
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag
+15:02:00.888 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag/index.js
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag/package.json
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag/README.md
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag/HISTORY.md
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/etag/LICENSE
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/index.js
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/package.json
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/CHANGELOG.md
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/README.md
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/.npmignore
+15:02:00.889 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/appveyor.yml
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/jsonfile/LICENSE
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test/parse.js
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test/.eslintrc
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test/index.js
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test/utils.js
+15:02:00.890 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/test/stringify.js
+15:02:00.891 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/.editorconfig
+15:02:00.891 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/dist
+15:02:00.891 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/dist/qs.js
+15:02:00.891 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/.eslintignore
+15:02:00.891 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/.eslintrc
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/package.json
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/CHANGELOG.md
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/README.md
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib/parse.js
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib/index.js
+15:02:00.892 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib/utils.js
+15:02:00.893 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib/formats.js
+15:02:00.894 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/lib/stringify.js
+15:02:00.894 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/qs/LICENSE
+15:02:00.894 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs
+15:02:00.894 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/polyfills.js
+15:02:00.895 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/legacy-streams.js
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/package.json
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/README.md
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/clone.js
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/graceful-fs.js
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-fs/LICENSE
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ee-first
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ee-first/index.js
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ee-first/package.json
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ee-first/README.md
+15:02:00.896 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/ee-first/LICENSE
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/src
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/src/index.js
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/src/assign.js
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/package.json
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/CHANGELOG.md
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/README.md
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/.npmignore
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/klaw/LICENSE
+15:02:00.898 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/once
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/once/package.json
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/once/README.md
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/once/once.js
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/once/LICENSE
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/index.js
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/package.json
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/README.md
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/HISTORY.md
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/LICENSE
+15:02:00.899 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/mime-db/db.json
+15:02:00.900 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer
+15:02:00.900 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/dangerous.js
+15:02:00.900 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/package.json
+15:02:00.900 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/tests.js
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/Readme.md
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/safer.js
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/Porting-Buffer.md
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safer-buffer/LICENSE
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer/index.js
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer/package.json
+15:02:00.901 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer/README.md
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer/index.d.ts
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/safe-buffer/LICENSE
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/minimatch
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/minimatch/package.json
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/minimatch/README.md
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/minimatch/minimatch.js
+15:02:00.902 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/minimatch/LICENSE
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/test
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/test/index.js
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/index.js
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/package.json
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/README.md
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/index.d.ts
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/setprototypeof/LICENSE
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/package.json
+15:02:00.903 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/CHANGELOG.md
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/README.md
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/.npmignore
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/remove
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/remove/index.js
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/walk
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/walk/index.js
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/index.js
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy-sync
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy-sync/index.js
+15:02:00.904 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy-sync/copy-sync.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy-sync/copy-file-sync.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/json
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/json/output-json-sync.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/json/output-json.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/json/index.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/json/jsonfile.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/empty
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/empty/index.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/output
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/output/index.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/util
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/util/utimes.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/util/assign.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy/index.js
+15:02:00.905 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy/copy.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/copy/ncp.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/move
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/move/index.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/symlink-paths.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/index.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/file.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/symlink-type.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/link.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/ensure/symlink.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/mkdirs
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/mkdirs/index.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/mkdirs/win32.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/mkdirs/mkdirs.js
+15:02:00.906 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/lib/mkdirs/mkdirs-sync.js
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fs-extra/LICENSE
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/underscore-min.js
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/package.json
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/README.md
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/underscore-min.map
+15:02:00.907 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/underscore.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/underscore/LICENSE
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/index.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/package.json
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/README.md
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/lib
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/lib/encoding.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/lib/mediaType.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/lib/charset.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/lib/language.js
+15:02:00.908 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/HISTORY.md
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/negotiator/LICENSE
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh/index.js
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh/package.json
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh/README.md
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh/HISTORY.md
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/fresh/LICENSE
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished
+15:02:00.909 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished/index.js
+15:02:00.910 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished/package.json
+15:02:00.910 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished/README.md
+15:02:00.910 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished/HISTORY.md
+15:02:00.910 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/on-finished/LICENSE
+15:02:00.910 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded/index.js
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded/package.json
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded/README.md
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded/HISTORY.md
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/forwarded/LICENSE
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/index.js
+15:02:00.911 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/package.json
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/README.md
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/.npmignore
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/.travis.yml
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/graceful-readlink/LICENSE
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser/index.js
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser/package.json
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser/README.md
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser/HISTORY.md
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/range-parser/LICENSE
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is/index.js
+15:02:00.912 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is/package.json
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is/README.md
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is/HISTORY.md
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/type-is/LICENSE
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition/index.js
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition/package.json
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition/README.md
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition/HISTORY.md
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/content-disposition/LICENSE
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static/index.js
+15:02:00.913 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static/package.json
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static/README.md
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static/HISTORY.md
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/serve-static/LICENSE
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods/index.js
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods/package.json
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods/README.md
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods/HISTORY.md
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/methods/LICENSE
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature
+15:02:00.914 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature/index.js
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature/History.md
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature/package.json
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature/.npmignore
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/cookie-signature/Readme.md
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inflight
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inflight/package.json
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inflight/README.md
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inflight/inflight.js
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/inflight/LICENSE
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler/index.js
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler/package.json
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler/README.md
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler/HISTORY.md
+15:02:00.915 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/finalhandler/LICENSE
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/LICENSE.txt
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/src
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/src/sha3.js
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/package.json
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/CHANGELOG.md
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/README.md
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/build
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/build/sha3.min.js
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/js-sha3/index.d.ts
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Creating bin directory: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts/index.js
+15:02:00.916 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts/package.json
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts/README.md
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts/HISTORY.md
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/node_modules/accepts/LICENSE
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/package.json
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/solc-cli/package-lock.json
+15:02:00.917 [main] INFO com.jpmorgan.cakeshop.CakeshopApplication - Copying binary: /home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/bin/README.md
+2021-11-21 15:02:01.963  INFO 20155 --- [           main] c.jpmorgan.cakeshop.CakeshopApplication  : Starting CakeshopApplication v0.12.1 on swcyb-virtualbox with PID 20155 (/home/swcyb/.quorum-wizard/bin/cakeshop/0.12.1/cakeshop.war started by swcyb in /home/swcyb/Ticket4U/network/Ticket4U-net)
+2021-11-21 15:02:01.964  INFO 20155 --- [           main] c.jpmorgan.cakeshop.CakeshopApplication  : The following profiles are active: container,spring-boot
+2021-11-21 15:02:04.408  INFO 20155 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-11-21 15:02:04.727  INFO 20155 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 300ms. Found 5 JPA repository interfaces.
+2021-11-21 15:02:06.416  INFO 20155 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'appConfig' of type [com.jpmorgan.cakeshop.config.AppConfig$$EnhancerBySpringCGLIB$$3a7398c6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-11-21 15:02:06.740  INFO 20155 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'cacheConfig' of type [com.jpmorgan.cakeshop.config.CacheConfig$$EnhancerBySpringCGLIB$$8ab6dd47] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-11-21 15:02:07.366  INFO 20155 --- [           main] o.s.b.w.e.j.JettyServletWebServerFactory : Server initialized with port: 8999
+2021-11-21 15:02:07.413  INFO 20155 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5354 ms
+2021-11-21 15:02:10.800  INFO 20155 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-21 15:02:10.831  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-11-21 15:02:10.845  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'asyncExecutor'
+2021-11-21 15:02:13.214  WARN 20155 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-21 15:02:13.599  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientInboundChannelExecutor'
+2021-11-21 15:02:13.611  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'clientOutboundChannelExecutor'
+2021-11-21 15:02:15.622  INFO 20155 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-11-21 15:02:16.354  INFO 20155 --- [           main] com.jpmorgan.cakeshop.config.WebConfig   : async task pool thread core 250
+2021-11-21 15:02:16.354  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'asyncTaskExecutor'
+2021-11-21 15:02:16.354  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'asyncTaskExecutor'
+2021-11-21 15:02:16.410  INFO 20155 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'messageBrokerTaskScheduler'
+2021-11-21 15:02:16.565  INFO 20155 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'brokerChannelExecutor'
+2021-11-21 15:02:17.287  INFO 20155 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@6b2ef50e, org.springframework.security.web.context.SecurityContextPersistenceFilter@3375b118, org.springframework.security.web.header.HeaderWriterFilter@7e848aea, org.springframework.security.web.authentication.logout.LogoutFilter@6136e1fc, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@46ea78f0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@52ca0ad4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6f867b0c, org.springframework.security.web.session.SessionManagementFilter@ce561cc, org.springframework.security.web.access.ExceptionTranslationFilter@64fdcf99, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3ba3f40d]
+2021-11-21 15:02:19.023  INFO 20155 --- [           main] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-11-21 15:02:19.056  INFO 20155 --- [           main] o.s.web.servlet.DispatcherServlet        : Completed initialization in 33 ms
+2021-11-21 15:02:19.115  INFO 20155 --- [           main] o.s.b.web.embedded.jetty.JettyWebServer  : Jetty started on port(s) 8999 (http/1.1) with context path '/'
+2021-11-21 15:02:19.870  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.lang.Boollean, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:19.874  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.398  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: boolean, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.399  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.400  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: boolean, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.400  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.624  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.util.List<String>, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.625  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.635  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.ulang.String, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.636  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.637  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.ulang.String, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.638  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.640  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.ulang.String, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.640  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.643  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.ulang.String, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.644  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.648  WARN 20155 --- [           main] d.s.r.o.OperationImplicitParameterReader : Unable to interpret the implicit parameter configuration with dataType: java.ulang.String, dataTypeClass: class java.lang.Void
+2021-11-21 15:02:20.649  WARN 20155 --- [           main] s.d.b.BodyParameterSpecificationProvider : Parameter should either be a simple or a content type
+2021-11-21 15:02:20.742  INFO 20155 --- [           main] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2021-11-21 15:02:20.743  INFO 20155 --- [           main] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2021-11-21 15:02:20.743  INFO 20155 --- [           main] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+
+
+********************************************************************************
+Running pre-flight checks...
+
+
+Testing db path
+/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/cakeshop/db
+OK
+********************************************************************************
+
+
+
+
+          CAKESHOP
+          version:     0.12.1
+          build id:    4d2d232450bf9efb748ad791da4ba4946fcdcbe0
+          build date:  2021-03-10T14:02:21.961+0000
+          Access the Cakeshop UI at: http://localhost:8999
+2021-11-21 15:02:20.798  INFO 20155 --- [           main] c.jpmorgan.cakeshop.CakeshopApplication  : Started CakeshopApplication in 19.628 seconds (JVM running for 21.765)
+2021-11-21 15:02:21.225  INFO 20155 --- [         cake-1] c.j.c.service.task.InitializeNodesTask   : Loading initial nodes from: qdata/cakeshop/local/cakeshop.json
+2021-11-21 15:02:21.432  INFO 20155 --- [         cake-1] c.j.c.service.impl.GethHttpServiceImpl   : Starting new BlockScanner
+2021-11-21 15:02:26.496  INFO 20155 --- [BlockScanner-41] c.j.c.service.impl.GethHttpServiceImpl   : New httpService connected to http://127.0.0.1:22000
+2021-11-21 15:02:26.732  INFO 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Catching database up to latest block
+2021-11-21 15:02:26.750  INFO 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Filling blocks from 0 to 0
+2021-11-21 15:02:26.759  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #0
+2021-11-21 15:02:44.827  INFO 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Filling blocks from 1 to 2
+2021-11-21 15:02:44.840  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #1
+2021-11-21 15:02:44.860  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #2
+2021-11-21 15:02:44.875  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #3
+2021-11-21 15:02:46.851  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #4
+2021-11-21 15:02:52.873  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #5
+2021-11-21 15:02:56.886  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #6
+2021-11-21 15:03:02.900  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #7
+2021-11-21 15:03:06.913  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #8
+2021-11-21 15:03:12.939  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #9
+2021-11-21 15:03:16.563  INFO 20155 --- [MessageBroker-5] o.s.w.s.c.WebSocketMessageBrokerStats    : WebSocketSession[1 current WS(1)-HttpStream(0)-HttpPoll(0), 1 total, 0 closed abnormally (0 connect failure, 0 send limit, 0 transport error)], stompSubProtocol[processed CONNECT(1)-CONNECTED(1)-DISCONNECT(0)], stompBrokerRelay[null], inboundChannel[pool size = 12, active threads = 0, queued tasks = 0, completed tasks = 15], outboundChannel[pool size = 12, active threads = 0, queued tasks = 0, completed tasks = 109], sockJsScheduler[pool size = 6, active threads = 1, queued tasks = 7, completed tasks = 425]
+2021-11-21 15:03:16.952  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #10
+2021-11-21 15:03:22.964  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #11
+2021-11-21 15:03:26.977  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #12
+2021-11-21 15:03:32.993  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #13
+2021-11-21 15:03:37.005  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #14
+2021-11-21 15:03:41.021  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #15
+2021-11-21 15:03:47.038  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #16
+2021-11-21 15:03:51.055  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #17
+2021-11-21 15:03:57.084  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #18
+2021-11-21 15:04:01.093  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #19
+2021-11-21 15:04:07.113  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #20
+2021-11-21 15:04:11.126  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #21
+2021-11-21 15:04:17.154  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #22
+2021-11-21 15:04:21.167  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #23
+2021-11-21 15:04:27.184  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #24
+2021-11-21 15:04:31.194  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #25
+2021-11-21 15:04:37.208  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #26
+2021-11-21 15:04:41.217  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #27
+2021-11-21 15:04:47.247  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #28
+2021-11-21 15:04:51.267  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #29
+2021-11-21 15:04:57.288  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #30
+2021-11-21 15:05:01.302  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #31
+2021-11-21 15:05:07.322  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #32
+2021-11-21 15:05:11.330  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #33
+2021-11-21 15:05:17.350  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #34
+2021-11-21 15:05:21.362  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #35
+2021-11-21 15:05:27.376  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #36
+2021-11-21 15:05:31.386  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #37
+2021-11-21 15:05:37.403  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #38
+2021-11-21 15:05:41.417  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #39
+2021-11-21 15:05:47.447  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #40
+2021-11-21 15:05:51.458  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #41
+2021-11-21 15:05:57.473  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #42
+2021-11-21 15:06:01.485  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #43
+2021-11-21 15:06:07.502  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #44
+2021-11-21 15:06:11.523  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #45
+2021-11-21 15:06:17.541  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #46
+2021-11-21 15:06:21.553  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #47
+2021-11-21 15:06:27.566  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #48
+2021-11-21 15:06:31.587  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #49
+2021-11-21 15:06:37.603  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #50
+2021-11-21 15:06:41.616  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #51
+2021-11-21 15:06:47.647  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #52
+2021-11-21 15:06:51.666  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #53
+2021-11-21 15:06:57.682  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #54
+2021-11-21 15:07:01.710  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #55
+2021-11-21 15:07:07.739  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #56
+2021-11-21 15:07:11.748  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #57
+2021-11-21 15:07:17.770  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #58
+2021-11-21 15:07:21.793  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #59
+2021-11-21 15:07:27.811  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #60
+2021-11-21 15:07:31.825  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #61
+2021-11-21 15:07:37.846  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #62
+2021-11-21 15:07:41.852  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #63
+2021-11-21 15:07:47.865  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #64
+2021-11-21 15:07:51.875  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #65
+2021-11-21 15:07:57.890  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #66
+2021-11-21 15:08:01.898  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #67
+2021-11-21 15:08:07.912  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #68
+2021-11-21 15:08:11.924  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #69
+2021-11-21 15:08:17.937  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #70
+2021-11-21 15:08:21.948  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #71
+2021-11-21 15:08:27.973  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #72
+2021-11-21 15:08:31.981  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #73
+2021-11-21 15:08:37.995  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #74
+2021-11-21 15:08:42.004  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #75
+2021-11-21 15:08:48.020  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #76
+2021-11-21 15:08:52.032  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #77
+2021-11-21 15:08:56.044  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #78
+2021-11-21 15:09:02.072  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #79
+2021-11-21 15:09:06.080  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #80
+2021-11-21 15:09:12.092  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #81
+2021-11-21 15:09:16.101  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #82
+2021-11-21 15:09:22.114  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #83
+2021-11-21 15:09:26.126  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #84
+2021-11-21 15:09:32.137  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #85
+2021-11-21 15:09:36.144  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #86
+2021-11-21 15:09:42.161  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #87
+2021-11-21 15:09:46.169  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #88
+2021-11-21 15:09:52.185  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #89
+2021-11-21 15:09:56.201  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #90
+2021-11-21 15:10:02.210  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #91
+2021-11-21 15:10:06.219  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #92
+2021-11-21 15:10:12.238  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #93
+2021-11-21 15:10:16.250  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #94
+2021-11-21 15:10:22.264  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #95
+2021-11-21 15:10:26.274  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #96
+2021-11-21 15:10:32.289  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #97
+2021-11-21 15:10:36.298  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #98
+2021-11-21 15:10:42.307  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #99
+2021-11-21 15:10:46.320  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #100
+2021-11-21 15:10:52.345  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #101
+2021-11-21 15:10:56.353  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #102
+2021-11-21 15:11:02.366  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #103
+2021-11-21 15:11:06.376  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #104
+2021-11-21 15:11:12.389  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #105
+2021-11-21 15:11:16.396  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #106
+2021-11-21 15:11:22.408  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #107
+2021-11-21 15:11:26.425  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #108
+2021-11-21 15:11:32.439  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #109
+2021-11-21 15:11:36.449  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #110
+2021-11-21 15:11:42.459  INFO 20155 --- [  BlockSaver-42] c.j.cakeshop.db.SavingBlockListener      : Persisting block #111
+2021-11-21 15:11:44.483  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:46.228 ERROR 20155 --- [MessageBroker-6] o.s.s.s.TaskUtils$LoggingErrorHandler    : Unexpected error occurred in scheduled task
+
+com.jpmorgan.cakeshop.error.APIException: RPC call failed
+	at com.jpmorgan.cakeshop.service.impl.GethHttpServiceImpl.executeGethCall(GethHttpServiceImpl.java:154) ~[classes!/:0.12.1]
+	at com.jpmorgan.cakeshop.service.impl.GethHttpServiceImpl.executeGethCall(GethHttpServiceImpl.java:143) ~[classes!/:0.12.1]
+	at com.jpmorgan.cakeshop.service.impl.BlockServiceImpl.get(BlockServiceImpl.java:47) ~[classes!/:0.12.1]
+	at com.jpmorgan.cakeshop.service.impl.WebSocketPushServiceImpl.pushLatestBlocks(WebSocketPushServiceImpl.java:126) ~[classes!/:0.12.1]
+	at jdk.internal.reflect.GeneratedMethodAccessor115.invoke(Unknown Source) ~[na:na]
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568) ~[na:na]
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84) ~[spring-context-5.2.12.RELEASE.jar!/:5.2.12.RELEASE]
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54) ~[spring-context-5.2.12.RELEASE.jar!/:5.2.12.RELEASE]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539) ~[na:na]
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:833) ~[na:na]
+Caused by: java.net.ConnectException: Failed to connect to /127.0.0.1:22000
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:297) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.RealConnection.connect(RealConnection.kt:207) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.ExchangeFinder.findConnection(ExchangeFinder.kt:226) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.ExchangeFinder.findHealthyConnection(ExchangeFinder.kt:106) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.ExchangeFinder.find(ExchangeFinder.kt:74) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.RealCall.initExchange$okhttp(RealCall.kt:255) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.kt:32) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.kt:95) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.kt:83) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.kt:76) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.kt:109) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.RealCall.getResponseWithInterceptorChain$okhttp(RealCall.kt:201) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.RealCall.execute(RealCall.kt:154) ~[okhttp-4.9.0.jar!/:na]
+	at org.web3j.protocol.http.HttpService.performIO(HttpService.java:160) ~[core-4.6.0.jar!/:na]
+	at org.web3j.protocol.Service.send(Service.java:48) ~[core-4.6.0.jar!/:na]
+	at org.web3j.protocol.core.Request.send(Request.java:87) ~[core-4.6.0.jar!/:na]
+	at com.jpmorgan.cakeshop.service.impl.GethHttpServiceImpl.executeGethCall(GethHttpServiceImpl.java:150) ~[classes!/:0.12.1]
+	... 14 common frames omitted
+Caused by: java.net.ConnectException: Connection refused
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method) ~[na:na]
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672) ~[na:na]
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:542) ~[na:na]
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597) ~[na:na]
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:327) ~[na:na]
+	at java.base/java.net.Socket.connect(Socket.java:633) ~[na:na]
+	at okhttp3.internal.platform.Platform.connectSocket(Platform.kt:120) ~[okhttp-4.9.0.jar!/:na]
+	at okhttp3.internal.connection.RealConnection.connectSocket(RealConnection.kt:295) ~[okhttp-4.9.0.jar!/:na]
+	... 33 common frames omitted
+
+2021-11-21 15:11:46.484  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:46.494  INFO 20155 --- [extShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopping...
+2021-11-21 15:11:46.495  INFO 20155 --- [extShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=false, SimpleBrokerMessageHandler [DefaultSubscriptionRegistry[cache[0 destination(s)], registry[0 sessions]]]]
+2021-11-21 15:11:46.495  INFO 20155 --- [extShutdownHook] o.s.m.s.b.SimpleBrokerMessageHandler     : Stopped.
+2021-11-21 15:11:46.515  INFO 20155 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'brokerChannelExecutor'
+2021-11-21 15:11:46.517  INFO 20155 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'messageBrokerTaskScheduler'
+2021-11-21 15:11:46.518  INFO 20155 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'asyncTaskExecutor'
+2021-11-21 15:11:46.531  WARN 20155 --- [extShutdownHook] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'shutdownExecutors': java.lang.NullPointerException: Cannot invoke "org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor.getThreadPoolExecutor()" because "this.asyncTaskExecutor" is null
+2021-11-21 15:11:46.532  INFO 20155 --- [extShutdownHook] c.j.cakeshop.db.MetricsBlockListener     : Stopping MetricsBlockListener (thread id=32)
+2021-11-21 15:11:47.518  INFO 20155 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientOutboundChannelExecutor'
+2021-11-21 15:11:47.519  INFO 20155 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'clientInboundChannelExecutor'
+2021-11-21 15:11:47.525  INFO 20155 --- [extShutdownHook] c.j.c.service.impl.GethHttpServiceImpl   : Stopping solc daemon
+2021-11-21 15:11:48.485  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:50.486  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:52.487  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:54.487  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:56.488  WARN 20155 --- [BlockScanner-41] com.jpmorgan.cakeshop.db.BlockScanner    : Error fetching block: RPC call failed
+2021-11-21 15:11:56.586  INFO 20155 --- [extShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2021-11-21 15:11:56.589  INFO 20155 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'asyncExecutor'

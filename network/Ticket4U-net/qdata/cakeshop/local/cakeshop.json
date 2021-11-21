@@ -1,0 +1,27 @@
+[
+  {
+    "name": "node1",
+    "rpcUrl": "http://127.0.0.1:22000",
+    "transactionManagerUrl": "http://127.0.0.1:9081"
+  },
+  {
+    "name": "node2",
+    "rpcUrl": "http://127.0.0.1:22001",
+    "transactionManagerUrl": "http://127.0.0.1:9082"
+  },
+  {
+    "name": "node3",
+    "rpcUrl": "http://127.0.0.1:22002",
+    "transactionManagerUrl": "http://127.0.0.1:9083"
+  },
+  {
+    "name": "node4",
+    "rpcUrl": "http://127.0.0.1:22003",
+    "transactionManagerUrl": "http://127.0.0.1:9084"
+  },
+  {
+    "name": "node5",
+    "rpcUrl": "http://127.0.0.1:22004",
+    "transactionManagerUrl": "http://127.0.0.1:9085"
+  }
+]

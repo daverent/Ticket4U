@@ -1,0 +1,6 @@
+UTENTE
+mail: utente@utente.it	pass aaaaaa1
+MANAGER
+mail: manager@manager.it  pass aaaaaa1
+
+// Creare un database phpmyadmin di nome "progetto_cyber", poi importare il file della tabella users.sql

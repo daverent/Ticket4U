@@ -1,0 +1,108 @@
+nav {
+    background-image: linear-gradient(rgb(100, 100, 100), rgba(209, 209, 209, 0));
+    color: #fff;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+}
+
+nav li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+}
+
+nav li a:hover {
+    color: rgb(168, 211, 253);
+    text-decoration: none;
+}
+
+#LogBtn {
+    background-color: rgba(113, 182, 252, 0.829);
+    border: none;
+}
+
+body {
+    background: url(https://img2.wallspic.com/originals/6/5/7/1/1/111756-monochrome_mode-line-illustration-angle-triangle-5120x2880.jpg);
+    background-size: 100% 500%;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.eventi-home {
+    text-align: center;
+    border-color: white;
+    width: 100%;
+    float: left;
+}
+
+.eventi-home div {
+    border-color: white;
+    display: inline-block;
+}
+
+.single-event {
+    border-color: white;
+}
+
+.inserisciev {
+    display: flex;
+}
+
+.card {
+    background-color: rgba(166, 209, 252, 0.637);
+    border: none;
+    margin: 20px 20px;
+}
+
+.card .card-body a {
+    color: rgb(0, 0, 0);
+}
+
+.card .card-body h5 {
+    color: rgb(0, 0, 0);
+}
+
+.card .card-body button {
+    background-color: rgba(135, 193, 252, 0.637);
+    border: none;
+    color: black;
+}
+
+footer {
+    background-color: #293133;
+}
+
+.main-content {
+    flex: 1;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer div {
+    float: left;
+    width: 33%;
+}
+
+.footer li {
+    color: white;
+    list-style-type: none;
+}
+
+.footer .title {
+    color: rgb(168, 211, 253);
+}

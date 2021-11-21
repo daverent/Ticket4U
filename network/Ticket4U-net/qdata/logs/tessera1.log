@@ -1,0 +1,692 @@
+2021-11-21 15:01:38.852 [main] INFO  c.q.tessera.enclave.EnclaveFactory - Creating enclave
+2021-11-21 15:01:38.854 [main] INFO  c.q.tessera.enclave.EnclaveFactory - Creating enclave server
+2021-11-21 15:01:40.960 [main] INFO  c.q.t.t.TesseraScheduledExecutor - Starting PartyInfoBroadcaster
+2021-11-21 15:01:40.964 [main] INFO  c.q.t.t.TesseraScheduledExecutor - Started PartyInfoBroadcaster
+2021-11-21 15:01:41.003 [main] INFO  c.q.t.t.TesseraScheduledExecutor - Starting EnclaveKeySynchroniserFactory
+2021-11-21 15:01:41.021 [main] INFO  c.q.t.t.TesseraScheduledExecutor - Started EnclaveKeySynchroniserFactory
+2021-11-21 15:01:41.142 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Loaded app com.quorum.tessera.p2p.P2PRestApp@21a46ff1
+2021-11-21 15:01:41.147 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Loaded app com.quorum.tessera.q2t.Q2TRestApp@27a6fef2
+2021-11-21 15:01:41.202 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:41.209 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-11-21 15:01:41.519 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-11-21 15:01:41.668 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:41.668 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:41.688 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:41.688 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:41.833 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:42.183 [main] WARN  eclipselink.logging.ddl - Removing UNIQUE constraint definition from [ENCRYPTED_TRANSACTION.HASH] because it is also a primary key.
+2021-11-21 15:01:42.226 [main] WARN  eclipselink.logging.ddl - Removing UNIQUE constraint definition from [ENCRYPTED_RAW_TRANSACTION.HASH] because it is also a primary key.
+2021-11-21 15:01:42.262 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.262 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.266 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.266 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.267 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.267 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.268 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.268 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.271 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.272 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.272 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.272 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException: Index 8 out of bounds for length 0
+2021-11-21 15:01:42.273 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.307 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:42.315 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.315 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:42.315 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.316 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:42.316 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.316 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:42.316 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:42.317 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:42.382 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:42.448 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:ALTER TABLE ST_AFFECTED_TRANSACTION DROP CONSTRAINT FK_ST_AFFECTED_TRANSACTION_TXN_ID [42102-200]Error Code: 42102Call: ALTER TABLE ST_AFFECTED_TRANSACTION DROP CONSTRAINT FK_ST_AFFECTED_TRANSACTION_TXN_IDQuery: DataModifyQuery(sql="ALTER TABLE ST_AFFECTED_TRANSACTION DROP CONSTRAINT FK_ST_AFFECTED_TRANSACTION_TXN_ID")
+2021-11-21 15:01:42.465 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_VALSTG" not found; SQL statement:DROP INDEX ST_TRANSACTION_VALSTG [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_VALSTGQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_VALSTG")
+2021-11-21 15:01:42.477 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_HASH" not found; SQL statement:DROP INDEX ST_TRANSACTION_HASH [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_HASHQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_HASH")
+2021-11-21 15:01:42.493 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:DROP TABLE ST_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_TRANSACTION")
+2021-11-21 15:01:42.495 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:DROP TABLE ST_AFFECTED_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_AFFECTED_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_AFFECTED_TRANSACTION")
+2021-11-21 15:01:42.508 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_VALSTG" not found; SQL statement:DROP INDEX ST_TRANSACTION_VALSTG [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_VALSTGQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_VALSTG")
+2021-11-21 15:01:42.520 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_HASH" not found; SQL statement:DROP INDEX ST_TRANSACTION_HASH [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_HASHQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_HASH")
+2021-11-21 15:01:42.523 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:DROP TABLE ST_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_TRANSACTION")
+2021-11-21 15:01:42.525 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:DROP TABLE ST_AFFECTED_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_AFFECTED_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_AFFECTED_TRANSACTION")
+2021-11-21 15:01:42.547 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_VALSTG" not found; SQL statement:DROP INDEX ST_TRANSACTION_VALSTG [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_VALSTGQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_VALSTG")
+2021-11-21 15:01:42.549 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_HASH" not found; SQL statement:DROP INDEX ST_TRANSACTION_HASH [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_HASHQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_HASH")
+2021-11-21 15:01:42.552 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:DROP TABLE ST_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_TRANSACTION")
+2021-11-21 15:01:42.553 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:DROP TABLE ST_AFFECTED_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_AFFECTED_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_AFFECTED_TRANSACTION")
+2021-11-21 15:01:42.555 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_VALSTG" not found; SQL statement:DROP INDEX ST_TRANSACTION_VALSTG [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_VALSTGQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_VALSTG")
+2021-11-21 15:01:42.557 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_HASH" not found; SQL statement:DROP INDEX ST_TRANSACTION_HASH [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_HASHQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_HASH")
+2021-11-21 15:01:42.570 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:DROP TABLE ST_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_TRANSACTION")
+2021-11-21 15:01:42.578 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:DROP TABLE ST_AFFECTED_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_AFFECTED_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_AFFECTED_TRANSACTION")
+2021-11-21 15:01:42.580 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_VALSTG" not found; SQL statement:DROP INDEX ST_TRANSACTION_VALSTG [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_VALSTGQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_VALSTG")
+2021-11-21 15:01:42.591 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Index "ST_TRANSACTION_HASH" not found; SQL statement:DROP INDEX ST_TRANSACTION_HASH [42112-200]Error Code: 42112Call: DROP INDEX ST_TRANSACTION_HASHQuery: DataModifyQuery(sql="DROP INDEX ST_TRANSACTION_HASH")
+2021-11-21 15:01:42.593 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_TRANSACTION" not found; SQL statement:DROP TABLE ST_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_TRANSACTION")
+2021-11-21 15:01:42.595 [main] WARN  eclipselink.logging.all - Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d): org.eclipse.persistence.exceptions.DatabaseExceptionInternal Exception: org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ST_AFFECTED_TRANSACTION" not found; SQL statement:DROP TABLE ST_AFFECTED_TRANSACTION [42102-200]Error Code: 42102Call: DROP TABLE ST_AFFECTED_TRANSACTIONQuery: DataModifyQuery(sql="DROP TABLE ST_AFFECTED_TRANSACTION")
+2021-11-21 15:01:42.631 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Loaded app com.quorum.tessera.thirdparty.ThirdPartyRestApp@6dc2279c
+2021-11-21 15:01:42.633 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Create from REST THIRD_PARTY
+2021-11-21 15:01:42.634 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Creating application type THIRD_PARTY for REST
+2021-11-21 15:01:42.651 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Create from REST Q2T
+2021-11-21 15:01:42.652 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Creating application type Q2T for REST
+2021-11-21 15:01:42.656 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Create from REST P2P
+2021-11-21 15:01:42.656 [main] INFO  c.q.t.config.apps.TesseraAppFactory - Creating application type P2P for REST
+2021-11-21 15:01:42.712 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8566ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-11-21 15:01:42.796 [main] INFO  c.quorum.tessera.server.JerseyServer - Starting http://127.0.0.1:9081
+2021-11-21 15:01:42.806 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.39.v20210325; built: 2021-03-25T14:42:11.471Z; git: 9fc7ca5a922f2a37b84ec9dbc26a5168cee7e667; jvm 17+35-Ubuntu-120.04
+2021-11-21 15:01:43.875 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.thirdparty.KeyResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.thirdparty.KeyResource will be ignored. 
+2021-11-21 15:01:43.875 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.api.common.UpCheckResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.api.common.UpCheckResource will be ignored. 
+2021-11-21 15:01:43.876 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.api.common.RawTransactionResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.api.common.RawTransactionResource will be ignored. 
+2021-11-21 15:01:43.876 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.thirdparty.PartyInfoResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.thirdparty.PartyInfoResource will be ignored. 
+2021-11-21 15:01:44.376 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@29dfc68f{/,null,AVAILABLE}
+2021-11-21 15:01:44.423 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7aa15a80{HTTP/1.1, (http/1.1)}{0.0.0.0:9081}
+2021-11-21 15:01:44.423 [main] INFO  org.eclipse.jetty.server.Server - Started @10277ms
+2021-11-21 15:01:44.423 [main] INFO  c.quorum.tessera.server.JerseyServer - Started http://127.0.0.1:9081
+2021-11-21 15:01:44.423 [main] INFO  c.quorum.tessera.server.JerseyServer - WADL http://127.0.0.1:9081/application.wadl
+2021-11-21 15:01:44.450 [main] INFO  c.quorum.tessera.server.JerseyServer - Starting unix:/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc
+2021-11-21 15:01:44.450 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.39.v20210325; built: 2021-03-25T14:42:11.471Z; git: 9fc7ca5a922f2a37b84ec9dbc26a5168cee7e667; jvm 17+35-Ubuntu-120.04
+2021-11-21 15:01:44.606 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:44.606 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2021-11-21 15:01:44.631 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2021-11-21 15:01:44.655 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.655 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.667 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.667 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.706 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:44.845 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.845 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.854 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.854 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.855 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.855 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.855 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.856 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.856 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.856 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.861 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.861 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.862 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.862 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.862 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:44.863 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:44.887 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:44.976 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:44.977 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Starting...
+2021-11-21 15:01:44.997 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-3 - Start completed.
+2021-11-21 15:01:45.007 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.009 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.027 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.027 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.065 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.119 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.119 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.129 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.130 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.130 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.130 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.131 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.131 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.131 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.131 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.132 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.132 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.132 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.132 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.133 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.134 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.134 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.163 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.325 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:45.330 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Starting...
+2021-11-21 15:01:45.337 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-4 - Start completed.
+2021-11-21 15:01:45.340 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.340 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.346 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.347 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.363 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.418 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.419 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.433 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.434 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.436 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.437 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.449 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.450 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.450 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.450 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.451 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.451 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.452 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.452 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.456 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.456 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.456 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.467 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.467 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.469 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.475 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.476 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.504 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.578 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:45.578 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Starting...
+2021-11-21 15:01:45.593 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-5 - Start completed.
+2021-11-21 15:01:45.598 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.599 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.605 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.606 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.633 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.664 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.665 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.674 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.675 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.675 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.675 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.676 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.676 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.677 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.677 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.677 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.677 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.677 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.678 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.680 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.681 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.681 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.682 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.682 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.682 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.682 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:45.682 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:45.702 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:45.986 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:01:46.048 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.q2t.TransactionResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.q2t.TransactionResource will be ignored. 
+2021-11-21 15:01:46.048 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.q2t.TransactionResource3 registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.q2t.TransactionResource3 will be ignored. 
+2021-11-21 15:01:46.048 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.api.common.UpCheckResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.api.common.UpCheckResource will be ignored. 
+2021-11-21 15:01:46.048 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.api.common.RawTransactionResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.api.common.RawTransactionResource will be ignored. 
+2021-11-21 15:01:46.049 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.q2t.PrivacyGroupResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.q2t.PrivacyGroupResource will be ignored. 
+2021-11-21 15:01:46.051 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.q2t.EncodedPayloadResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.q2t.EncodedPayloadResource will be ignored. 
+2021-11-21 15:01:46.107 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:01:46.266 [pool-3-thread-2] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9004/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:01:46.269 [pool-3-thread-4] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9005/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:01:46.267 [pool-3-thread-1] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9002/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:01:46.266 [pool-3-thread-3] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9003/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:01:46.708 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2c451c4a{/,null,AVAILABLE}
+2021-11-21 15:01:47.546 [main] INFO  o.e.jetty.server.AbstractConnector - Started UnixSocketConnector@5342032a{HTTP/1.1, (http/1.1)}{/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc}
+2021-11-21 15:01:47.556 [main] INFO  org.eclipse.jetty.server.Server - Started @13401ms
+2021-11-21 15:01:47.558 [main] INFO  c.quorum.tessera.server.JerseyServer - Started unix:/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc
+2021-11-21 15:01:47.559 [main] INFO  c.quorum.tessera.server.JerseyServer - WADL unix:/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc/application.wadl
+2021-11-21 15:01:47.560 [main] INFO  c.quorum.tessera.server.JerseyServer - Starting http://127.0.0.1:9001
+2021-11-21 15:01:47.561 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.39.v20210325; built: 2021-03-25T14:42:11.471Z; git: 9fc7ca5a922f2a37b84ec9dbc26a5168cee7e667; jvm 17+35-Ubuntu-120.04
+2021-11-21 15:01:47.785 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:47.788 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Starting...
+2021-11-21 15:01:47.825 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-6 - Start completed.
+2021-11-21 15:01:47.850 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.857 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.859 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.859 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.910 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:47.942 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.942 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.945 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.945 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.946 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.946 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.947 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.947 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.947 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.947 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.948 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.948 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.948 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.948 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.952 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.953 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.956 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.956 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.956 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.956 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.956 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:47.957 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:47.962 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.001 [main] INFO  c.q.t.r.r.ResendBatchPublisherFactory - Loaded factory com.quorum.tessera.p2p.recovery.RestResendBatchPublisherFactory@c67a89
+2021-11-21 15:01:48.012 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:48.013 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Starting...
+2021-11-21 15:01:48.018 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-7 - Start completed.
+2021-11-21 15:01:48.021 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.022 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.024 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.024 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.030 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.057 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.058 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.058 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.059 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.059 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.059 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.060 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.061 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.061 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.061 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.061 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.062 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.062 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.062 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.062 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.086 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.086 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.092 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.161 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:48.161 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Starting...
+2021-11-21 15:01:48.173 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-8 - Start completed.
+2021-11-21 15:01:48.179 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.179 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.181 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.188 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.210 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.314 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.315 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.315 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.315 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.316 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.316 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.316 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.316 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.317 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.317 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.325 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.327 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.335 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.346 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.357 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.358 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.358 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.358 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.359 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.359 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.359 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.359 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.399 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.515 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:48.515 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Starting...
+2021-11-21 15:01:48.521 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-9 - Start completed.
+2021-11-21 15:01:48.523 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.523 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.529 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.529 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.545 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.584 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.584 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.589 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.589 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.589 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.589 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.591 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.591 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.591 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.592 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.592 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.592 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.593 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.593 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.593 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.593 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.594 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.594 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.594 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.594 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.595 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.595 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.613 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.670 [main] INFO  c.q.t.r.r.ResendBatchPublisherFactory - Loaded factory com.quorum.tessera.p2p.recovery.RestResendBatchPublisherFactory@16b2d182
+2021-11-21 15:01:48.671 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:48.672 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Starting...
+2021-11-21 15:01:48.684 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-10 - Start completed.
+2021-11-21 15:01:48.687 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.687 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.689 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.689 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.711 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.752 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.752 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.753 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.753 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.753 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.754 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.755 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.755 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.755 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.770 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.770 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.771 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.776 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.841 [main] WARN  c.q.t.c.util.EncryptedStringResolver - Some sensitive values are being given as unencrypted plain text in config. Please note this is NOT recommended for production environment.
+2021-11-21 15:01:48.846 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Starting...
+2021-11-21 15:01:48.856 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-11 - Start completed.
+2021-11-21 15:01:48.859 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.859 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.860 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.860 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.872 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:48.923 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.923 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.924 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.924 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.924 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.924 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.925 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.925 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.925 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.925 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.926 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.927 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.927 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.927 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.929 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.930 [main] ERROR eclipselink.logging.metadata - java.lang.IllegalArgumentException: Unsupported class file major version 61
+2021-11-21 15:01:48.930 [main] ERROR eclipselink.logging.metadata - java.lang.ArrayIndexOutOfBoundsException
+2021-11-21 15:01:48.935 [main] INFO  eclipselink.logging.all - EclipseLink, version: Eclipse Persistence Services - 2.7.7.v20200504-69f2c2b80d
+2021-11-21 15:01:49.043 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.p2p.TransactionResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.p2p.TransactionResource will be ignored. 
+2021-11-21 15:01:49.043 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.p2p.PrivacyGroupResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.p2p.PrivacyGroupResource will be ignored. 
+2021-11-21 15:01:49.043 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.p2p.PartyInfoResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.p2p.PartyInfoResource will be ignored. 
+2021-11-21 15:01:49.043 [main] WARN  o.g.jersey.internal.inject.Providers - A provider com.quorum.tessera.api.common.UpCheckResource registered in SERVER runtime does not implement any provider interfaces applicable in the SERVER runtime. Due to constraint configuration problems the provider com.quorum.tessera.api.common.UpCheckResource will be ignored. 
+2021-11-21 15:01:49.301 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2b5ca574{/,null,AVAILABLE}
+2021-11-21 15:01:49.303 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@40d04cf8{HTTP/1.1, (http/1.1)}{0.0.0.0:9001}
+2021-11-21 15:01:49.304 [main] INFO  org.eclipse.jetty.server.Server - Started @15157ms
+2021-11-21 15:01:49.304 [main] INFO  c.quorum.tessera.server.JerseyServer - Started http://127.0.0.1:9001
+2021-11-21 15:01:49.304 [main] INFO  c.quorum.tessera.server.JerseyServer - WADL http://127.0.0.1:9001/application.wadl
+2021-11-21 15:01:51.108 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:01:51.110 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:01:53.845 [qtp836665497-57] INFO  c.q.t.api.common.UpCheckResource - Enter Request : GET : /upcheck
+2021-11-21 15:01:53.846 [qtp836665497-57] INFO  c.q.t.api.common.UpCheckResource - GET upcheck
+2021-11-21 15:01:53.868 [qtp836665497-57] INFO  c.q.t.api.common.UpCheckResource - Exit Request : GET : /upcheck
+2021-11-21 15:01:53.868 [qtp836665497-57] INFO  c.q.t.api.common.UpCheckResource - Response for upcheck : 200 OK
+2021-11-21 15:01:56.110 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:01:56.113 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:01:59.218 [qtp1449065853-34] INFO  c.q.t.api.common.UpCheckResource - Enter Request : GET : /upcheck
+2021-11-21 15:01:59.226 [qtp1449065853-34] INFO  c.q.t.api.common.UpCheckResource - GET upcheck
+2021-11-21 15:01:59.228 [qtp1449065853-34] INFO  c.q.t.api.common.UpCheckResource - Exit Request : GET : /upcheck
+2021-11-21 15:01:59.228 [qtp1449065853-34] INFO  c.q.t.api.common.UpCheckResource - Response for upcheck : 200 OK
+2021-11-21 15:01:59.237 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Enter Request : GET : /version
+2021-11-21 15:01:59.239 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Exit Request : GET : /version
+2021-11-21 15:01:59.239 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Response for version : 200 OK
+2021-11-21 15:01:59.243 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Enter Request : GET : /version/api
+2021-11-21 15:01:59.264 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Exit Request : GET : /version/api
+2021-11-21 15:01:59.264 [qtp1449065853-31] INFO  c.q.t.api.common.VersionResource - Response for version/api : 200 OK
+2021-11-21 15:02:01.114 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:01.116 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:06.116 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:06.120 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:11.121 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:11.122 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:16.125 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:16.127 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:21.127 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:21.130 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:26.131 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:26.132 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:31.135 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:31.137 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:36.139 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:36.144 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:41.146 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:41.149 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:46.159 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:46.162 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:51.177 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:51.178 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:02:56.178 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:02:56.180 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:01.180 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:01.184 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:06.193 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:06.195 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:11.196 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:11.197 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:16.198 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:16.199 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:21.199 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:21.202 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:26.204 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:26.205 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:31.206 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:31.207 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:36.207 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:36.208 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:41.209 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:41.212 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:46.213 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:46.216 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:51.216 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:51.218 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:03:56.218 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:03:56.219 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:01.221 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:01.223 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:06.224 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:06.225 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:11.226 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:11.227 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:16.228 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:16.237 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:21.238 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:21.239 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:26.239 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:26.240 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:31.241 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:31.242 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:36.243 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:36.245 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:41.248 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:41.250 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:46.250 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:46.252 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:51.252 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:51.254 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:04:56.255 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:04:56.256 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:01.256 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:01.259 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:06.259 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:06.260 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:11.264 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:11.267 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:16.268 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:16.270 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:21.270 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:21.273 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:26.273 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:26.275 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:31.275 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:31.277 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:36.277 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:36.278 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:41.279 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:41.282 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:46.283 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:46.291 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:51.292 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:51.294 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:05:56.296 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:05:56.299 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:01.299 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:01.301 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:06.302 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:06.303 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:11.305 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:11.306 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:16.307 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:16.309 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:21.310 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:21.311 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:26.311 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:26.313 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:31.314 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:31.315 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:36.316 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:36.317 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:41.318 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:41.320 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:46.322 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:46.323 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:51.324 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:51.325 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:06:56.327 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:06:56.328 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:01.330 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:01.332 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:06.332 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:06.341 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:11.341 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:11.342 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:16.343 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:16.343 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:21.344 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:21.344 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:26.345 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:26.347 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:31.347 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:31.348 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:36.350 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:36.353 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:41.353 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:41.355 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:46.356 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:46.358 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:51.359 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:51.364 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:07:56.367 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:07:56.368 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:01.368 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:01.370 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:06.370 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:06.372 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:11.373 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:11.375 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:16.377 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:16.378 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:21.378 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:21.379 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:26.381 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:26.386 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:31.387 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:31.389 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:36.390 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:36.392 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:41.392 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:41.393 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:46.394 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:46.395 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:51.395 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:51.398 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:08:56.400 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:08:56.402 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:01.403 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:01.404 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:06.405 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:06.407 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:11.409 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:11.410 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:16.410 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:16.411 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:21.412 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:21.414 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:26.415 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:26.416 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:31.416 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:31.418 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:36.418 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:36.419 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:41.419 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:41.420 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:46.421 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:46.422 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:51.423 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:51.425 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:09:56.425 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:09:56.426 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:01.427 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:01.428 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:06.428 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:06.429 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:11.430 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:11.431 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:16.432 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:16.434 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:21.434 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:21.436 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:26.436 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:26.438 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:31.439 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:31.440 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:36.441 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:36.445 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:41.446 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:41.449 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:46.450 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:46.451 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:51.452 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:51.453 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:10:56.454 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:10:56.454 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:01.455 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:01.457 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:06.458 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:06.460 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:11.460 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:11.461 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:16.462 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:16.464 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:21.464 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:21.465 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:26.465 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:26.466 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:31.467 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:31.468 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:36.468 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:36.470 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:41.477 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:41.479 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:46.345 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopping Jersey server at http://127.0.0.1:9081
+2021-11-21 15:11:46.353 [Thread-1] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7aa15a80{HTTP/1.1, (http/1.1)}{0.0.0.0:9081}
+2021-11-21 15:11:46.371 [Thread-1] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@29dfc68f{/,null,STOPPED}
+2021-11-21 15:11:46.383 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopped Jersey server at http://127.0.0.1:9081
+2021-11-21 15:11:46.384 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopping Jersey server at unix:/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc
+2021-11-21 15:11:46.386 [Thread-1] INFO  o.e.jetty.server.AbstractConnector - Stopped UnixSocketConnector@5342032a{HTTP/1.1, (http/1.1)}{/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc}
+2021-11-21 15:11:46.439 [Thread-1] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2c451c4a{/,null,STOPPED}
+2021-11-21 15:11:46.457 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopped Jersey server at unix:/home/swcyb/Ticket4U/network/Ticket4U-net/qdata/c1/tm.ipc
+2021-11-21 15:11:46.458 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopping Jersey server at http://127.0.0.1:9001
+2021-11-21 15:11:46.461 [Thread-1] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@40d04cf8{HTTP/1.1, (http/1.1)}{0.0.0.0:9001}
+2021-11-21 15:11:46.479 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Started PartyInfo polling round
+2021-11-21 15:11:46.480 [pool-2-thread-1] INFO  c.q.t.p.p.PartyInfoBroadcaster - Finished PartyInfo polling round
+2021-11-21 15:11:46.481 [Thread-1] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@2b5ca574{/,null,STOPPED}
+2021-11-21 15:11:46.483 [pool-3-thread-4] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9005/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:11:46.483 [pool-3-thread-2] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9002/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:11:46.483 [pool-3-thread-3] WARN  c.q.t.p.p.PartyInfoBroadcaster - Failed to connect to node http://127.0.0.1:9003/, due to java.net.ConnectException: Connection refused
+2021-11-21 15:11:46.484 [Thread-1] INFO  c.quorum.tessera.server.JerseyServer - Stopped Jersey server at http://127.0.0.1:9001

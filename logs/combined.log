@@ -1,0 +1,112 @@
+[21-11-2021 15:03:58] [system]: 	Server Started
+[21-11-2021 15:04:04] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:04:04] [info]: 	ID: UNLOGGED | Visiting @home
+[21-11-2021 15:04:20] [action]: 	EMAIL: admin@admin.it | Registration succesful!
+[21-11-2021 15:05:27] [info]: 	New Account creation on local node completed
+[21-11-2021 15:05:27] [action]: 	EMAIL: utente@utente.it | Registration succesful!
+[21-11-2021 15:05:52] [info]: 	New Account creation on local node completed
+[21-11-2021 15:05:52] [action]: 	EMAIL: manager@manager.it | Registration succesful!
+[21-11-2021 15:06:23] [info]: 	New Account creation on local node completed
+[21-11-2021 15:06:23] [action]: 	EMAIL: biglietteria@biglietteria.it | Registration succesful!
+[21-11-2021 15:06:32] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:32] [action]: 	ID: 3 | Is now logged with ROLE: 0
+[21-11-2021 15:06:34] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:34] [info]: 	ID: 3 | Visiting @eventi
+[21-11-2021 15:06:37] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:37] [action]: 	ID: 3 | Logout succesfull
+[21-11-2021 15:06:41] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:41] [info]: 	ID: 1 | Visiting @systemLogin
+[21-11-2021 15:06:41] [action]: 	ID: undefined | Admin login succesfull!
+[21-11-2021 15:06:41] [info]: 	ID: 1 | Visiting @gestioneUtenti
+[21-11-2021 15:06:44] [action]: 	ID: 1 | Admin modifies role of EMAIL: manager@manager.it in ROLE: 1
+[21-11-2021 15:06:46] [action]: 	ID: 1 | Admin modifies role of EMAIL: biglietteria@biglietteria.it in ROLE: 2
+[21-11-2021 15:06:47] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:47] [action]: 	ID: 1 | Logout succesfull
+[21-11-2021 15:06:52] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:52] [action]: 	ID: 3 | Is now logged with ROLE: 1
+[21-11-2021 15:06:53] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:06:53] [info]: 	ID: 3 | Visiting @eventi
+[21-11-2021 15:06:54] [info]: 	ID: 3 | Visiting @insericiEventi
+[21-11-2021 15:07:16] [action]: 	ID :3 | Event addition of EVENTO: Concerto In Piazza succesful!
+[21-11-2021 15:07:16] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:07:17] [info]: 	ID: 3 | Visiting @insericiEventi
+[21-11-2021 15:07:56] [action]: 	ID :3 | Event addition of EVENTO: Spettacolo a Teatro succesful!
+[21-11-2021 15:07:56] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:07:58] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:07:58] [action]: 	ID: 3 | Logout succesfull
+[21-11-2021 15:08:03] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:03] [action]: 	ID: 2 | Is now logged with ROLE: 0
+[21-11-2021 15:08:05] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:05] [info]: 	ID: 2 | Visiting @eventi
+[21-11-2021 15:08:06] [info]: 	ID: 2 | Visiting @compraBiglietto
+[21-11-2021 15:08:06] [info]: 	User's ticket reading requested
+[21-11-2021 15:08:11] [action]: 	ID :2 | Purchase of 3 ticket/s succesful!
+[21-11-2021 15:08:12] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:12] [info]: 	ID: 2 | Visiting @eventi
+[21-11-2021 15:08:13] [info]: 	ID: 2 | Visiting @compraBiglietto
+[21-11-2021 15:08:13] [info]: 	User's ticket reading requested
+[21-11-2021 15:08:21] [action]: 	ID :2 | Purchase of 3 ticket/s succesful!
+[21-11-2021 15:08:22] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:22] [action]: 	ID: 2 | Logout succesfull
+[21-11-2021 15:08:22] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:22] [info]: 	ID: UNLOGGED | Visiting @eventi
+[21-11-2021 15:08:29] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:29] [action]: 	ID: 4 | Is now logged with ROLE: 2
+[21-11-2021 15:08:31] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:08:31] [info]: 	ID: 4 | Visiting @eventi
+[21-11-2021 15:08:33] [info]: 	ID: 4 | Visiting @sigillo
+[21-11-2021 15:08:46] [action]: 	ID :4 | Sealing of TICKET: 0 succesful!
+[21-11-2021 15:08:56] [action]: 	ID :4 | Sealing of TICKET: 1 succesful!
+[21-11-2021 15:09:11] [action]: 	ID :4 | Sealing of TICKET: 3 succesful!
+[21-11-2021 15:09:21] [action]: 	ID :4 | Sealing of TICKET: 4 succesful!
+[21-11-2021 15:09:21] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:09:21] [action]: 	ID: 4 | Logout succesfull
+[21-11-2021 15:09:28] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:09:28] [action]: 	ID: 3 | Is now logged with ROLE: 1
+[21-11-2021 15:09:29] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:09:29] [info]: 	ID: 3 | Visiting @eventi
+[21-11-2021 15:09:31] [info]: 	ID: 3 | Visiting @validazione
+[21-11-2021 15:09:41] [error]: 	Transaction has been reverted by the EVM:
+{
+  "blockHash": "0xc8fca1bca3831958e034a56910b13beef6026b2246fa2c7702c7c6d9adb66c0d",
+  "blockNumber": 87,
+  "contractAddress": null,
+  "cumulativeGasUsed": 38852,
+  "from": "0x7715532606b097538c71eeaab981b1558d61b9c1",
+  "gasUsed": 38852,
+  "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "status": false,
+  "to": "0x43bc08fb760ff949f339c7717102b06cd4db5361",
+  "transactionHash": "0xff76461365ea0fafcd2b65d178d7077dd5fdd29797d6099eab53b3da2b1d5ff3",
+  "transactionIndex": 0,
+  "events": {}
+}
+[21-11-2021 15:09:45] [info]: 	ID: 3 | Visiting @validazione
+[21-11-2021 15:09:51] [error]: 	Transaction has been reverted by the EVM:
+{
+  "blockHash": "0xdda2e508982ca0d228bf14d8c45e6e8fcedcdeeb2bba9643cdd6782ac4d01f1c",
+  "blockNumber": 89,
+  "contractAddress": null,
+  "cumulativeGasUsed": 38852,
+  "from": "0x7715532606b097538c71eeaab981b1558d61b9c1",
+  "gasUsed": 38852,
+  "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+  "status": false,
+  "to": "0x43bc08fb760ff949f339c7717102b06cd4db5361",
+  "transactionHash": "0x90980ca40212b71d16e493334f875e57bc54698ce56a8f613ec9abb8c2dc79a0",
+  "transactionIndex": 0,
+  "events": {}
+}
+[21-11-2021 15:10:47] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:10:47] [action]: 	ID: 3 | Logout succesfull
+[21-11-2021 15:10:53] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:10:53] [action]: 	ID: 4 | Is now logged with ROLE: 2
+[21-11-2021 15:10:54] [info]: 	ID: 4 | Visiting @sigillo
+[21-11-2021 15:11:06] [action]: 	ID :4 | Sealing of TICKET: 0 succesful!
+[21-11-2021 15:11:07] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:11:07] [action]: 	ID: 4 | Logout succesfull
+[21-11-2021 15:11:13] [info]: 	Reading events from blockchain completed succesfully
+[21-11-2021 15:11:13] [action]: 	ID: 3 | Is now logged with ROLE: 1
+[21-11-2021 15:11:14] [info]: 	ID: 3 | Visiting @validazione
+[21-11-2021 15:11:26] [action]: 	ID :3 | Validation of TICKET: 0 succesful!
+[21-11-2021 15:11:36] [action]: 	ID :3 | Validation of TICKET: 3 succesful!
