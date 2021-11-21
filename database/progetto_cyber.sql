@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Nov 17, 2021 at 08:19 PM
+-- Generation Time: Nov 21, 2021 at 04:47 PM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 8.0.12
 
@@ -44,10 +44,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`username`, `surname`, `email`, `password`, `id`, `role`, `blockchain_address`, `locked`, `locked_at`) VALUES
-('Admin', 'Admin', 'admin@admin.it', '$2a$12$pDfAC7fYzYcHF1nFS0vcqOxpfcPtd1yZjj/jondUL1s84D.cv8lbG', 1, 10, 'U2FsdGVkX18aSPwohIQFaTZAnBAdFQHXb/guhYHkDNYw8AaOeylLbvYMH2IS4ORZiaIzpQks/GOPdw==', 0, NULL),
-('Utente', 'Utente', 'utente@utente.it', '$2a$12$GZR0hHNkKs422w6rM2anC.9SQ1DS4mCFNgZ7AEdZiBz6UGoB5agem', 2, 0, 'U2FsdGVkX1/RIjIslosAvR4aLmcn7mgeOH8xg7fxKb3sA7lGkgmINvRbLfypJ6PDiBScE02B7og/tg==', NULL, NULL),
-('Manager', 'Manager', 'manager@manager.it', '$2a$12$yI8nq5fn4CMVqEoB2ZG.H.RB7m6UB2WGk7MZdDkKgB6v23WiNrDHC', 3, 1, 'U2FsdGVkX1/ZDjqkKgkQqBPOVqlO0+sJSqLOFiZKP36KsLHDG+GsxH8YuY1+9izGOrYy+NL/mHBGhg==', 0, NULL),
-('Biglietteria', 'Biglietteria', 'biglietteria@biglietteria.it', '$2a$12$Gcjl0eH4ZCr7kZ.iOPSLKO/e7tPeXN8YLgJDbSr0HRHKqIDeT8Vri', 4, 2, 'U2FsdGVkX18q3tAWQlqlRfJeOYy5UpcNO7iVHlA8v45j6zxGlotMvyFsG2+giWoIgWsyhOkRac7d1w==', NULL, NULL);
+('Admin', 'Admin', 'admin@admin.it', '$2a$12$SflhoCxRdtzmLraJVfUnCef7HXDSu5MWv3vV8Ec5F2Y.v3CVJ.9bG', 1, 10, 'U2FsdGVkX19hFox2qUTSt21cWCV+ClYlCqqF00NIbPttf6dpdSRNOCo23zDMqU2qazl/4VEp1LyuAA==', 0, NULL),
+('Utente', 'Utente', 'utente@utente.it', '$2a$12$QMRASXvPGC1KJ4LebdSvVu0lFalM4qxfaDdFN9CWOjW3DCqpFCXb2', 2, 0, 'U2FsdGVkX19s6npnlsOcIOERbnxzEYGOqaUfE1ey8I7YAxTczW1MVN5K2Sd76Ie5UYX5vzKZa8mb4w==', 0, NULL),
+('Manager', 'Manager', 'manager@manager.it', '$2a$12$tfUiZqaBDjGp6M6mQoB8nulsMKoBJr6wwQr/b01S71s9qZ9OavSe.', 3, 1, 'U2FsdGVkX18KHm9Pw+zXwireWDi5GSPJ+i2eG4JcckjKOyUzUQyqT9cDJsOhH/QQrJxChZklHRNhlA==', 0, NULL),
+('Biglietteria', 'Biglietteria', 'biglietteria@biglietteria.it', '$2a$12$KJf0FAKIKaluvNvqYKn.f.dgqOz4PzEAT2foYJOicRcGlqoa3DB.C', 4, 2, 'U2FsdGVkX182w7qRlxstqndeUXm5IORGIwrgyJV2NWafyAoc4bmDq636BDk/lG76/LTN/6X6OMlJyA==', 0, NULL);
 
 --
 -- Indexes for dumped tables
